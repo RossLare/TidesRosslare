@@ -1,0 +1,3686 @@
+{
+  "January": [
+    {
+      "firstLowT": "03:13",
+      "firstHighT": "09:45",
+      "secondLowT": "15:45",
+      "secondHighT": "21:28",
+      "firstLowH": 0.55,
+      "firstHighH": 1.76,
+      "secondLowH": 0.78,
+      "secondHighH": 1.59
+    },
+    {
+      "firstLowT": "03:49",
+      "firstHighT": "10:19",
+      "secondLowT": "16:27",
+      "secondHighT": "22:08",
+      "firstLowH": 0.61,
+      "firstHighH": 1.72,
+      "secondLowH": 0.83,
+      "secondHighH": 1.54
+    },
+    {
+      "firstLowT": "04:37",
+      "firstHighT": "11:12",
+      "secondLowT": "17:26",
+      "secondHighT": "23:11",
+      "firstLowH": 0.68,
+      "firstHighH": 1.67,
+      "secondLowH": 0.86,
+      "secondHighH": 1.49
+    },
+    {
+      "firstLowT": "05:42",
+      "firstHighT": "12:23",
+      "secondLowT": "18:41",
+      "secondHighT": "-:-",
+      "firstLowH": 0.73,
+      "firstHighH": 1.64,
+      "secondLowH": 0.85,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "07:02",
+      "firstHighT": "00:42",
+      "secondLowT": "20:00",
+      "secondHighT": "13:45",
+      "firstLowH": 0.73,
+      "firstHighH": 1.46,
+      "secondLowH": 0.75,
+      "secondHighH": 1.65
+    },
+    {
+      "firstLowT": "08:20",
+      "firstHighT": "02:20",
+      "secondLowT": "21:06",
+      "secondHighT": "14:58",
+      "firstLowH": 0.67,
+      "firstHighH": 1.51,
+      "secondLowH": 0.61,
+      "secondHighH": 1.7
+    },
+    {
+      "firstLowT": "09:26",
+      "firstHighT": "03:34",
+      "secondLowT": "22:01",
+      "secondHighT": "16:00",
+      "firstLowH": 0.58,
+      "firstHighH": 1.61,
+      "secondLowH": 0.47,
+      "secondHighH": 1.76
+    },
+    {
+      "firstLowT": "10:24",
+      "firstHighT": "04:35",
+      "secondLowT": "22:51",
+      "secondHighT": "16:56",
+      "firstLowH": 0.49,
+      "firstHighH": 1.72,
+      "secondLowH": 0.35,
+      "secondHighH": 1.81
+    },
+    {
+      "firstLowT": "11:18",
+      "firstHighT": "05:30",
+      "secondLowT": "23:38",
+      "secondHighT": "17:49",
+      "firstLowH": 0.42,
+      "firstHighH": 1.82,
+      "secondLowH": 0.26,
+      "secondHighH": 1.85
+    },
+    {
+      "firstLowT": "12:11",
+      "firstHighT": "06:21",
+      "secondLowT": "-:-",
+      "secondHighT": "18:39",
+      "firstLowH": 0.37,
+      "firstHighH": 1.9,
+      "secondLowH": "-.-",
+      "secondHighH": 1.86
+    },
+    {
+      "firstLowT": "00:22",
+      "firstHighT": "07:09",
+      "secondLowT": "12:58",
+      "secondHighT": "19:24",
+      "firstLowH": 0.21,
+      "firstHighH": 1.95,
+      "secondLowH": 0.35,
+      "secondHighH": 1.86
+    },
+    {
+      "firstLowT": "01:02",
+      "firstHighT": "07:53",
+      "secondLowT": "13:39",
+      "secondHighT": "20:04",
+      "firstLowH": 0.19,
+      "firstHighH": 1.97,
+      "secondLowH": 0.36,
+      "secondHighH": 1.82
+    },
+    {
+      "firstLowT": "01:37",
+      "firstHighT": "08:33",
+      "secondLowT": "14:13",
+      "secondHighT": "20:39",
+      "firstLowH": 0.21,
+      "firstHighH": 1.95,
+      "secondLowH": 0.39,
+      "secondHighH": 1.77
+    },
+    {
+      "firstLowT": "02:09",
+      "firstHighT": "09:08",
+      "secondLowT": "14:44",
+      "secondHighT": "21:11",
+      "firstLowH": 0.23,
+      "firstHighH": 1.91,
+      "secondLowH": 0.44,
+      "secondHighH": 1.7
+    },
+    {
+      "firstLowT": "02:42",
+      "firstHighT": "09:41",
+      "secondLowT": "15:17",
+      "secondHighT": "21:40",
+      "firstLowH": 0.26,
+      "firstHighH": 1.84,
+      "secondLowH": 0.49,
+      "secondHighH": 1.65
+    },
+    {
+      "firstLowT": "03:21",
+      "firstHighT": "10:15",
+      "secondLowT": "15:55",
+      "secondHighT": "22:15",
+      "firstLowH": 0.3,
+      "firstHighH": 1.77,
+      "secondLowH": 0.54,
+      "secondHighH": 1.6
+    },
+    {
+      "firstLowT": "04:05",
+      "firstHighT": "10:58",
+      "secondLowT": "16:42",
+      "secondHighT": "23:02",
+      "firstLowH": 0.36,
+      "firstHighH": 1.7,
+      "secondLowH": 0.58,
+      "secondHighH": 1.55
+    },
+    {
+      "firstLowT": "05:00",
+      "firstHighT": "11:54",
+      "secondLowT": "17:40",
+      "secondHighT": "-:-",
+      "firstLowH": 0.43,
+      "firstHighH": 1.62,
+      "secondLowH": 0.62,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "06:06",
+      "firstHighT": "00:09",
+      "secondLowT": "18:51",
+      "secondHighT": "13:09",
+      "firstLowH": 0.5,
+      "firstHighH": 1.51,
+      "secondLowH": 0.62,
+      "secondHighH": 1.57
+    },
+    {
+      "firstLowT": "07:24",
+      "firstHighT": "01:39",
+      "secondLowT": "20:11",
+      "secondHighT": "14:38",
+      "firstLowH": 0.53,
+      "firstHighH": 1.51,
+      "secondLowH": 0.57,
+      "secondHighH": 1.56
+    },
+    {
+      "firstLowT": "08:47",
+      "firstHighT": "03:12",
+      "secondLowT": "21:27",
+      "secondHighT": "16:00",
+      "firstLowH": 0.52,
+      "firstHighH": 1.59,
+      "secondLowH": 0.46,
+      "secondHighH": 1.61
+    },
+    {
+      "firstLowT": "10:06",
+      "firstHighT": "04:32",
+      "secondLowT": "22:34",
+      "secondHighT": "17:07",
+      "firstLowH": 0.47,
+      "firstHighH": 1.7,
+      "secondLowH": 0.35,
+      "secondHighH": 1.68
+    },
+    {
+      "firstLowT": "11:18",
+      "firstHighT": "05:38",
+      "secondLowT": "23:33",
+      "secondHighT": "18:05",
+      "firstLowH": 0.42,
+      "firstHighH": 1.81,
+      "secondLowH": 0.27,
+      "secondHighH": 1.74
+    },
+    {
+      "firstLowT": "12:18",
+      "firstHighT": "06:33",
+      "secondLowT": "-:-",
+      "secondHighT": "18:54",
+      "firstLowH": 0.39,
+      "firstHighH": 1.88,
+      "secondLowH": "-.-",
+      "secondHighH": 1.76
+    },
+    {
+      "firstLowT": "00:22",
+      "firstHighT": "07:20",
+      "secondLowT": "13:02",
+      "secondHighT": "19:33",
+      "firstLowH": 0.23,
+      "firstHighH": 1.91,
+      "secondLowH": 0.39,
+      "secondHighH": 1.75
+    },
+    {
+      "firstLowT": "01:01",
+      "firstHighT": "07:57",
+      "secondLowT": "13:34",
+      "secondHighT": "20:33",
+      "firstLowH": 0.23,
+      "firstHighH": 1.88,
+      "secondLowH": 0.42,
+      "secondHighH": 1.71
+    },
+    {
+      "firstLowT": "01:32",
+      "firstHighT": "08:24",
+      "secondLowT": "13:58",
+      "secondHighT": "20:24",
+      "firstLowH": 0.26,
+      "firstHighH": 1.83,
+      "secondLowH": 0.47,
+      "secondHighH": 1.66
+    },
+    {
+      "firstLowT": "01:57",
+      "firstHighT": "08:43",
+      "secondLowT": "14:20",
+      "secondHighT": "20:34",
+      "firstLowH": 0.3,
+      "firstHighH": 1.78,
+      "secondLowH": 0.51,
+      "secondHighH": 1.62
+    },
+    {
+      "firstLowT": "02:21",
+      "firstHighT": "08:57",
+      "secondLowT": "14:42",
+      "secondHighT": "20:42",
+      "firstLowH": 0.34,
+      "firstHighH": 1.74,
+      "secondLowH": 0.55,
+      "secondHighH": 1.61
+    },
+    {
+      "firstLowT": "02:45",
+      "firstHighT": "09:13",
+      "secondLowT": "15:09",
+      "secondHighT": "20:59",
+      "firstLowH": 0.37,
+      "firstHighH": 1.73,
+      "secondLowH": 0.59,
+      "secondHighH": 1.6
+    },
+    {
+      "firstLowT": "03:15",
+      "firstHighT": "09:39",
+      "secondLowT": "15:42",
+      "secondHighT": "21:29",
+      "firstLowH": 0.42,
+      "firstHighH": 1.7,
+      "secondLowH": 0.63,
+      "secondHighH": 1.56
+    }
+  ],
+  "February": [
+    {
+      "firstLowT": "03:51",
+      "firstHighT": "10:18",
+      "secondLowT": "16:25",
+      "secondHighT": "22:17",
+      "firstLowH": 0.49,
+      "firstHighH": 1.64,
+      "secondLowH": 0.68,
+      "secondHighH": 1.49
+    },
+    {
+      "firstLowT": "04:41",
+      "firstHighT": "11:13",
+      "secondLowT": "17:25",
+      "secondHighT": "23:27",
+      "firstLowH": 0.57,
+      "firstHighH": 1.55,
+      "secondLowH": 0.72,
+      "secondHighH": 1.4
+    },
+    {
+      "firstLowT": "05:50",
+      "firstHighT": "12:30",
+      "secondLowT": "18:48",
+      "secondHighT": "-:-",
+      "firstLowH": 0.65,
+      "firstHighH": 1.48,
+      "secondLowH": 0.71,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "07:23",
+      "firstHighT": "01:09",
+      "secondLowT": "20:19",
+      "secondHighT": "14:05",
+      "firstLowH": 0.65,
+      "firstHighH": 1.36,
+      "secondLowH": 0.6,
+      "secondHighH": 1.47
+    },
+    {
+      "firstLowT": "08:52",
+      "firstHighT": "02:54",
+      "secondLowT": "21:29",
+      "secondHighT": "15:27",
+      "firstLowH": 0.57,
+      "firstHighH": 1.42,
+      "secondLowH": 0.44,
+      "secondHighH": 1.52
+    },
+    {
+      "firstLowT": "10:01",
+      "firstHighT": "04:09",
+      "secondLowT": "22:25",
+      "secondHighT": "16:33",
+      "firstLowH": 0.45,
+      "firstHighH": 1.55,
+      "secondLowH": 0.27,
+      "secondHighH": 1.59
+    },
+    {
+      "firstLowT": "11:02",
+      "firstHighT": "05:11",
+      "secondLowT": "23:18",
+      "secondHighT": "17:32",
+      "firstLowH": 0.33,
+      "firstHighH": 1.68,
+      "secondLowH": 0.14,
+      "secondHighH": 1.66
+    },
+    {
+      "firstLowT": "11:59",
+      "firstHighT": "06:06",
+      "secondLowT": "-:-",
+      "secondHighT": "18:25",
+      "firstLowH": 0.23,
+      "firstHighH": 1.8,
+      "secondLowH": "-.-",
+      "secondHighH": 1.73
+    },
+    {
+      "firstLowT": "00:06",
+      "firstHighT": "06:57",
+      "secondLowT": "12:50",
+      "secondHighT": "19:13",
+      "firstLowH": 0.05,
+      "firstHighH": 1.9,
+      "secondLowH": 0.17,
+      "secondHighH": 1.78
+    },
+    {
+      "firstLowT": "00:51",
+      "firstHighT": "07:43",
+      "secondLowT": "13:33",
+      "secondHighT": "19:55",
+      "firstLowH": 0,
+      "firstHighH": 1.95,
+      "secondLowH": 0.15,
+      "secondHighH": 1.78
+    },
+    {
+      "firstLowT": "01:30",
+      "firstHighT": "08:24",
+      "secondLowT": "14:07",
+      "secondHighT": "20:30",
+      "firstLowH": -0.01,
+      "firstHighH": 1.96,
+      "secondLowH": 0.17,
+      "secondHighH": 1.76
+    },
+    {
+      "firstLowT": "02:03",
+      "firstHighT": "09:00",
+      "secondLowT": "14:36",
+      "secondHighT": "21:04",
+      "firstLowH": 0.02,
+      "firstHighH": 1.91,
+      "secondLowH": 0.23,
+      "secondHighH": 1.7
+    },
+    {
+      "firstLowT": "02:36",
+      "firstHighT": "09:32",
+      "secondLowT": "15:05",
+      "secondHighT": "21:33",
+      "firstLowH": 0.07,
+      "firstHighH": 1.82,
+      "secondLowH": 0.3,
+      "secondHighH": 1.64
+    },
+    {
+      "firstLowT": "03:11",
+      "firstHighT": "10:03",
+      "secondLowT": "15:38",
+      "secondHighT": "22:02",
+      "firstLowH": 0.14,
+      "firstHighH": 1.71,
+      "secondLowH": 0.36,
+      "secondHighH": 1.59
+    },
+    {
+      "firstLowT": "03:50",
+      "firstHighT": "10:37",
+      "secondLowT": "16:18",
+      "secondHighT": "22:41",
+      "firstLowH": 0.23,
+      "firstHighH": 1.6,
+      "secondLowH": 0.43,
+      "secondHighH": 1.52
+    },
+    {
+      "firstLowT": "04:39",
+      "firstHighT": "11:22",
+      "secondLowT": "17:09",
+      "secondHighT": "23:40",
+      "firstLowH": 0.34,
+      "firstHighH": 1.48,
+      "secondLowH": 0.49,
+      "secondHighH": 1.45
+    },
+    {
+      "firstLowT": "05:40",
+      "firstHighT": "12:31",
+      "secondLowT": "18:17",
+      "secondHighT": "-:-",
+      "firstLowH": 0.46,
+      "firstHighH": 1.38,
+      "secondLowH": 0.54,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "07:00",
+      "firstHighT": "01:12",
+      "secondLowT": "19:42",
+      "secondHighT": "14:11",
+      "firstLowH": 0.54,
+      "firstHighH": 1.41,
+      "secondLowH": 0.51,
+      "secondHighH": 1.34
+    },
+    {
+      "firstLowT": "08:33",
+      "firstHighT": "02:57",
+      "secondLowT": "21:06",
+      "secondHighT": "15:42",
+      "firstLowH": 0.53,
+      "firstHighH": 1.46,
+      "secondLowH": 0.41,
+      "secondHighH": 1.4
+    },
+    {
+      "firstLowT": "09:57",
+      "firstHighT": "04:18",
+      "secondLowT": "22:16",
+      "secondHighT": "16:51",
+      "firstLowH": 0.45,
+      "firstHighH": 1.58,
+      "secondLowH": 0.28,
+      "secondHighH": 1.5
+    },
+    {
+      "firstLowT": "11:06",
+      "firstHighT": "05:23",
+      "secondLowT": "23:15",
+      "secondHighT": "17:48",
+      "firstLowH": 0.36,
+      "firstHighH": 1.69,
+      "secondLowH": 0.17,
+      "secondHighH": 1.59
+    },
+    {
+      "firstLowT": "12:00",
+      "firstHighT": "06:15",
+      "secondLowT": "-:-",
+      "secondHighT": "18:33",
+      "firstLowH": 0.29,
+      "firstHighH": 1.77,
+      "secondLowH": "-.-",
+      "secondHighH": 1.65
+    },
+    {
+      "firstLowT": "00:03",
+      "firstHighT": "06:58",
+      "secondLowT": "12:39",
+      "secondHighT": "19:11",
+      "firstLowH": 0.11,
+      "firstHighH": 1.8,
+      "secondLowH": 0.27,
+      "secondHighH": 1.67
+    },
+    {
+      "firstLowT": "00:41",
+      "firstHighT": "07:32",
+      "secondLowT": "13:09",
+      "secondHighT": "19:39",
+      "firstLowH": 0.1,
+      "firstHighH": 1.78,
+      "secondLowH": 0.27,
+      "secondHighH": 1.65
+    },
+    {
+      "firstLowT": "01:11",
+      "firstHighT": "07:57",
+      "secondLowT": "13:33",
+      "secondHighT": "20:00",
+      "firstLowH": 0.13,
+      "firstHighH": 1.75,
+      "secondLowH": 0.3,
+      "secondHighH": 1.62
+    },
+    {
+      "firstLowT": "01:36",
+      "firstHighT": "08:16",
+      "secondLowT": "13:54",
+      "secondHighT": "20:13",
+      "firstLowH": 0.16,
+      "firstHighH": 1.71,
+      "secondLowH": 0.33,
+      "secondHighH": 1.6
+    },
+    {
+      "firstLowT": "01:59",
+      "firstHighT": "08:31",
+      "secondLowT": "14:15",
+      "secondHighT": "20:24",
+      "firstLowH": 0.2,
+      "firstHighH": 1.69,
+      "secondLowH": 0.36,
+      "secondHighH": 1.6
+    },
+    {
+      "firstLowT": "02:21",
+      "firstHighT": "08:47",
+      "secondLowT": "14:38",
+      "secondHighT": "20:39",
+      "firstLowH": 0.24,
+      "firstHighH": 1.67,
+      "secondLowH": 0.39,
+      "secondHighH": 1.59
+    },
+    {
+      "firstLowT": "02:46",
+      "firstHighT": "09:09",
+      "secondLowT": "15:06",
+      "secondHighT": "21:05",
+      "firstLowH": 0.29,
+      "firstHighH": 1.63,
+      "secondLowH": 0.44,
+      "secondHighH": 1.55
+    }
+  ],
+  "March": [
+    {
+      "firstLowT": "03:18",
+      "firstHighT": "09:41",
+      "secondLowT": "15:42",
+      "secondHighT": "21:43",
+      "firstLowH": 0.37,
+      "firstHighH": 1.56,
+      "secondLowH": 0.49,
+      "secondHighH": 1.47
+    },
+    {
+      "firstLowT": "04:00",
+      "firstHighT": "10:24",
+      "secondLowT": "16:29",
+      "secondHighT": "22:40",
+      "firstLowH": 0.46,
+      "firstHighH": 1.45,
+      "secondLowH": 0.56,
+      "secondHighH": 1.36
+    },
+    {
+      "firstLowT": "04:59",
+      "firstHighT": "11:28",
+      "secondLowT": "17:38",
+      "secondHighT": "-:-",
+      "firstLowH": 0.56,
+      "firstHighH": 1.33,
+      "secondLowH": 0.6,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "06:27",
+      "firstHighT": "00:09",
+      "secondLowT": "19:17",
+      "secondHighT": "13:07",
+      "firstLowH": 0.61,
+      "firstHighH": 1.27,
+      "secondLowH": 0.56,
+      "secondHighH": 1.25
+    },
+    {
+      "firstLowT": "08:17",
+      "firstHighT": "02:11",
+      "secondLowT": "20:48",
+      "secondHighT": "14:54",
+      "firstLowH": 0.55,
+      "firstHighH": 1.3,
+      "secondLowH": 0.41,
+      "secondHighH": 1.29
+    },
+    {
+      "firstLowT": "09:38",
+      "firstHighT": "03:40",
+      "secondLowT": "21:54",
+      "secondHighT": "16:10",
+      "firstLowH": 0.39,
+      "firstHighH": 1.43,
+      "secondLowH": 0.23,
+      "secondHighH": 1.4
+    },
+    {
+      "firstLowT": "10:42",
+      "firstHighT": "04:48",
+      "secondLowT": "22:51",
+      "secondHighT": "17:13",
+      "firstLowH": 0.23,
+      "firstHighH": 1.59,
+      "secondLowH": 0.07,
+      "secondHighH": 1.52
+    },
+    {
+      "firstLowT": "11:40",
+      "firstHighT": "05:46",
+      "secondLowT": "23:45",
+      "secondHighT": "18:09",
+      "firstLowH": 0.1,
+      "firstHighH": 1.74,
+      "secondLowH": -0.05,
+      "secondHighH": 1.64
+    },
+    {
+      "firstLowT": "12:32",
+      "firstHighT": "06:38",
+      "secondLowT": "=:-",
+      "secondHighT": "18:57",
+      "firstLowH": 0.01,
+      "firstHighH": 1.86,
+      "secondLowH": "-.-",
+      "secondHighH": 1.73
+    },
+    {
+      "firstLowT": "00:34",
+      "firstHighT": "07:24",
+      "secondLowT": "13:15",
+      "secondHighT": "19:40",
+      "firstLowH": -0.12,
+      "firstHighH": 1.94,
+      "secondLowH": -0.03,
+      "secondHighH": 1.78
+    },
+    {
+      "firstLowT": "01:17",
+      "firstHighT": "08:06",
+      "secondLowT": "13:51",
+      "secondHighT": "20:18",
+      "firstLowH": -0.13,
+      "firstHighH": 1.94,
+      "secondLowH": 0,
+      "secondHighH": 1.78
+    },
+    {
+      "firstLowT": "01:54",
+      "firstHighT": "08:44",
+      "secondLowT": "14:21",
+      "secondHighT": "20:52",
+      "firstLowH": -0.09,
+      "firstHighH": 1.88,
+      "secondLowH": 0.07,
+      "secondHighH": 1.74
+    },
+    {
+      "firstLowT": "02:27",
+      "firstHighT": "09:17",
+      "secondLowT": "14:48",
+      "secondHighT": "21:21",
+      "firstLowH": -0.01,
+      "firstHighH": 1.77,
+      "secondLowH": 0.15,
+      "secondHighH": 1.67
+    },
+    {
+      "firstLowT": "03:00",
+      "firstHighT": "09:46",
+      "secondLowT": "15:18",
+      "secondHighT": "21:51",
+      "firstLowH": 0.09,
+      "firstHighH": 1.63,
+      "secondLowH": 0.24,
+      "secondHighH": 1.6
+    },
+    {
+      "firstLowT": "03:37",
+      "firstHighT": "10:15",
+      "secondLowT": "15:54",
+      "secondHighT": "22:27",
+      "firstLowH": 0.21,
+      "firstHighH": 1.48,
+      "secondLowH": 0.32,
+      "secondHighH": 1.52
+    },
+    {
+      "firstLowT": "04:22",
+      "firstHighT": "10:54",
+      "secondLowT": "16:41",
+      "secondHighT": "23:22",
+      "firstLowH": 0.35,
+      "firstHighH": 1.35,
+      "secondLowH": 0.41,
+      "secondHighH": 1.43
+    },
+    {
+      "firstLowT": "05:21",
+      "firstHighT": "11:58",
+      "secondLowT": "17:46",
+      "secondHighT": "-:-",
+      "firstLowH": 0.49,
+      "firstHighH": 1.23,
+      "secondLowH": 0.48,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "06:45",
+      "firstHighT": "00:54",
+      "secondLowT": "19:15",
+      "secondHighT": "13:48",
+      "firstLowH": 0.57,
+      "firstHighH": 1.37,
+      "secondLowH": 0.49,
+      "secondHighH": 1.19
+    },
+    {
+      "firstLowT": "08:22",
+      "firstHighT": "02:39",
+      "secondLowT": "20:43",
+      "secondHighT": "15:23",
+      "firstLowH": 0.54,
+      "firstHighH": 1.42,
+      "secondLowH": 0.39,
+      "secondHighH": 1.27
+    },
+    {
+      "firstLowT": "09:42",
+      "firstHighT": "03:57",
+      "secondLowT": "21:52",
+      "secondHighT": "16:30",
+      "firstLowH": 0.42,
+      "firstHighH": 1.53,
+      "secondLowH": 0.26,
+      "secondHighH": 1.4
+    },
+    {
+      "firstLowT": "10:41",
+      "firstHighT": "04:57",
+      "secondLowT": "22:47",
+      "secondHighT": "17:23",
+      "firstLowH": 0.31,
+      "firstHighH": 1.63,
+      "secondLowH": 0.15,
+      "secondHighH": 1.51
+    },
+    {
+      "firstLowT": "11:27",
+      "firstHighT": "05:45",
+      "secondLowT": "23:33",
+      "secondHighT": "18:06",
+      "firstLowH": 0.23,
+      "firstHighH": 1.7,
+      "secondLowH": 0.09,
+      "secondHighH": 1.59
+    },
+    {
+      "firstLowT": "12:05",
+      "firstHighT": "06:26",
+      "secondLowT": "-:-",
+      "secondHighT": "18:41",
+      "firstLowH": 0.18,
+      "firstHighH": 1.73,
+      "secondLowH": "-.-",
+      "secondHighH": 1.64
+    },
+    {
+      "firstLowT": "00:12",
+      "firstHighT": "06:58",
+      "secondLowT": "12:36",
+      "secondHighT": "19:10",
+      "firstLowH": 0.08,
+      "firstHighH": 1.73,
+      "secondLowH": 0.17,
+      "secondHighH": 1.65
+    },
+    {
+      "firstLowT": "00:45",
+      "firstHighT": "07:24",
+      "secondLowT": "13:03",
+      "secondHighT": "19:33",
+      "firstLowH": 0.09,
+      "firstHighH": 1.71,
+      "secondLowH": 0.18,
+      "secondHighH": 1.64
+    },
+    {
+      "firstLowT": "01:12",
+      "firstHighT": "07:47",
+      "secondLowT": "13:27",
+      "secondHighT": "19:52",
+      "firstLowH": 0.13,
+      "firstHighH": 1.69,
+      "secondLowH": 0.21,
+      "secondHighH": 1.63
+    },
+    {
+      "firstLowT": "02:38",
+      "firstHighT": "09:06",
+      "secondLowT": "14:50",
+      "secondHighT": "21:09",
+      "firstLowH": 0,
+      "firstHighH": 0,
+      "secondLowH": 0,
+      "secondHighH": 0
+    },
+    {
+      "firstLowT": "03:01",
+      "firstHighT": "09:25",
+      "secondLowT": "15:12",
+      "secondHighT": "21:27",
+      "firstLowH": 0.22,
+      "firstHighH": 1.64,
+      "secondLowH": 0.28,
+      "secondHighH": 1.6
+    },
+    {
+      "firstLowT": "03:26",
+      "firstHighT": "09:47",
+      "secondLowT": "15:37",
+      "secondHighT": "21:49",
+      "firstLowH": 0.28,
+      "firstHighH": 1.58,
+      "secondLowH": 0.33,
+      "secondHighH": 1.56
+    },
+    {
+      "firstLowT": "03:56",
+      "firstHighT": "10:13",
+      "secondLowT": "16:09",
+      "secondHighT": "22:22",
+      "firstLowH": 0.35,
+      "firstHighH": 1.49,
+      "secondLowH": 0.39,
+      "secondHighH": 1.49
+    },
+    {
+      "firstLowT": "04:35",
+      "firstHighT": "10:50",
+      "secondLowT": "16:50",
+      "secondHighT": "23:11",
+      "firstLowH": 0.44,
+      "firstHighH": 1.38,
+      "secondLowH": 0.46,
+      "secondHighH": 1.4
+    }
+  ],
+  "April": [
+    {
+      "firstLowT": "05:28",
+      "firstHighT": "11:46",
+      "secondLowT": "17:50",
+      "secondHighT": "-:-",
+      "firstLowH": 0.53,
+      "firstHighH": 1.25,
+      "secondLowH": 0.52,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "06:48",
+      "firstHighT": "00:28",
+      "secondLowT": "19:18",
+      "secondHighT": "13:18",
+      "firstLowH": 0.58,
+      "firstHighH": 1.3,
+      "secondLowH": 0.54,
+      "secondHighH": 1.16
+    },
+    {
+      "firstLowT": "08:35",
+      "firstHighT": "02:24",
+      "secondLowT": "20:59",
+      "secondHighT": "15:17",
+      "firstLowH": 0.53,
+      "firstHighH": 1.29,
+      "secondLowH": 0.44,
+      "secondHighH": 1.19
+    },
+    {
+      "firstLowT": "10:04",
+      "firstHighT": "04:03",
+      "secondLowT": "22:15",
+      "secondHighT": "16:42",
+      "firstLowH": 0.38,
+      "firstHighH": 1.41,
+      "secondLowH": 0.26,
+      "secondHighH": 1.32
+    },
+    {
+      "firstLowT": "11:11",
+      "firstHighT": "05:16",
+      "secondLowT": "23:18",
+      "secondHighT": "17:48",
+      "firstLowH": 0.21,
+      "firstHighH": 1.57,
+      "secondLowH": 0.1,
+      "secondHighH": 1.47
+    },
+    {
+      "firstLowT": "12:09",
+      "firstHighT": "06:18",
+      "secondLowT": "-:-",
+      "secondHighT": "18:45",
+      "firstLowH": 0.06,
+      "firstHighH": 1.72,
+      "secondLowH": ".-.",
+      "secondHighH": 1.63
+    },
+    {
+      "firstLowT": "00:17",
+      "firstHighT": "07:12",
+      "secondLowT": "13:03",
+      "secondHighT": "19:35",
+      "firstLowH": -0.03,
+      "firstHighH": 1.85,
+      "secondLowH": -0.03,
+      "secondHighH": 1.75
+    },
+    {
+      "firstLowT": "01:12",
+      "firstHighT": "08:02",
+      "secondLowT": "13:49",
+      "secondHighT": "20:21",
+      "firstLowH": -0.1,
+      "firstHighH": 1.92,
+      "secondLowH": -0.06,
+      "secondHighH": 1.83
+    },
+    {
+      "firstLowT": "02:00",
+      "firstHighT": "08:45",
+      "secondLowT": "14:27",
+      "secondHighT": "21:01",
+      "firstLowH": -0.1,
+      "firstHighH": 1.91,
+      "secondLowH": -0.03,
+      "secondHighH": 1.85
+    },
+    {
+      "firstLowT": "02:41",
+      "firstHighT": "09:25",
+      "secondLowT": "14:59",
+      "secondHighT": "21:37",
+      "firstLowH": -0.05,
+      "firstHighH": 1.84,
+      "secondLowH": 0.04,
+      "secondHighH": 1.82
+    },
+    {
+      "firstLowT": "03:17",
+      "firstHighT": "10:00",
+      "secondLowT": "15:28",
+      "secondHighT": "22:09",
+      "firstLowH": 0.04,
+      "firstHighH": 1.71,
+      "secondLowH": 0.13,
+      "secondHighH": 1.75
+    },
+    {
+      "firstLowT": "03:51",
+      "firstHighT": "10:30",
+      "secondLowT": "15:58",
+      "secondHighT": "22:40",
+      "firstLowH": 0.17,
+      "firstHighH": 1.56,
+      "secondLowH": 0.22,
+      "secondHighH": 1.67
+    },
+    {
+      "firstLowT": "04:27",
+      "firstHighT": "10:57",
+      "secondLowT": "16:33",
+      "secondHighT": "23:15",
+      "firstLowH": 0.3,
+      "firstHighH": 1.42,
+      "secondLowH": 0.31,
+      "secondHighH": 1.59
+    },
+    {
+      "firstLowT": "05:09",
+      "firstHighT": "11:32",
+      "secondLowT": "17:17",
+      "secondHighT": "-:-",
+      "firstLowH": 0.44,
+      "firstHighH": 1.3,
+      "secondLowH": 0.41,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "00:00",
+      "firstHighT": "00:00",
+      "secondLowT": "00:00",
+      "secondHighT": "00:00",
+      "firstLowH": 0,
+      "firstHighH": 0,
+      "secondLowH": 0,
+      "secondHighH": 0
+    },
+    {
+      "firstLowT": "00:00",
+      "firstHighT": "00:00",
+      "secondLowT": "00:00",
+      "secondHighT": "00:00",
+      "firstLowH": 0,
+      "firstHighH": 0,
+      "secondLowH": 0,
+      "secondHighH": 0
+    },
+    {
+      "firstLowT": "00:00",
+      "firstHighT": "00:00",
+      "secondLowT": "00:00",
+      "secondHighT": "00:00",
+      "firstLowH": 0,
+      "firstHighH": 0,
+      "secondLowH": 0,
+      "secondHighH": 0
+    },
+    {
+      "firstLowT": "00:00",
+      "firstHighT": "00:00",
+      "secondLowT": "00:00",
+      "secondHighT": "00:00",
+      "firstLowH": 0,
+      "firstHighH": 0,
+      "secondLowH": 0,
+      "secondHighH": 0
+    },
+    {
+      "firstLowT": "00:00",
+      "firstHighT": "00:00",
+      "secondLowT": "00:00",
+      "secondHighT": "00:00",
+      "firstLowH": 0,
+      "firstHighH": 0,
+      "secondLowH": 0,
+      "secondHighH": 0
+    },
+    {
+      "firstLowT": "00:00",
+      "firstHighT": "00:00",
+      "secondLowT": "00:00",
+      "secondHighT": "00:00",
+      "firstLowH": 0,
+      "firstHighH": 0,
+      "secondLowH": 0,
+      "secondHighH": 0
+    },
+    {
+      "firstLowT": "00:00",
+      "firstHighT": "00:00",
+      "secondLowT": "00:00",
+      "secondHighT": "00:00",
+      "firstLowH": 0,
+      "firstHighH": 0,
+      "secondLowH": 0,
+      "secondHighH": 0
+    },
+    {
+      "firstLowT": "00:00",
+      "firstHighT": "00:00",
+      "secondLowT": "00:00",
+      "secondHighT": "00:00",
+      "firstLowH": 0,
+      "firstHighH": 0,
+      "secondLowH": 0,
+      "secondHighH": 0
+    },
+    {
+      "firstLowT": "00:00",
+      "firstHighT": "00:00",
+      "secondLowT": "00:00",
+      "secondHighT": "00:00",
+      "firstLowH": 0,
+      "firstHighH": 0,
+      "secondLowH": 0,
+      "secondHighH": 0
+    },
+    {
+      "firstLowT": "00:00",
+      "firstHighT": "00:00",
+      "secondLowT": "00:00",
+      "secondHighT": "00:00",
+      "firstLowH": 0,
+      "firstHighH": 0,
+      "secondLowH": 0,
+      "secondHighH": 0
+    },
+    {
+      "firstLowT": "00:00",
+      "firstHighT": "00:00",
+      "secondLowT": "00:00",
+      "secondHighT": "00:00",
+      "firstLowH": 0,
+      "firstHighH": 0,
+      "secondLowH": 0,
+      "secondHighH": 0
+    },
+    {
+      "firstLowT": "00:00",
+      "firstHighT": "00:00",
+      "secondLowT": "00:00",
+      "secondHighT": "00:00",
+      "firstLowH": 0,
+      "firstHighH": 0,
+      "secondLowH": 0,
+      "secondHighH": 0
+    },
+    {
+      "firstLowT": "00:00",
+      "firstHighT": "00:00",
+      "secondLowT": "00:00",
+      "secondHighT": "00:00",
+      "firstLowH": 0,
+      "firstHighH": 0,
+      "secondLowH": 0,
+      "secondHighH": 0
+    },
+    {
+      "firstLowT": "00:00",
+      "firstHighT": "00:00",
+      "secondLowT": "00:00",
+      "secondHighT": "00:00",
+      "firstLowH": 0,
+      "firstHighH": 0,
+      "secondLowH": 0,
+      "secondHighH": 0
+    },
+    {
+      "firstLowT": "00:00",
+      "firstHighT": "00:00",
+      "secondLowT": "00:00",
+      "secondHighT": "00:00",
+      "firstLowH": 0,
+      "firstHighH": 0,
+      "secondLowH": 0,
+      "secondHighH": 0
+    },
+    {
+      "firstLowT": "00:00",
+      "firstHighT": "00:00",
+      "secondLowT": "00:00",
+      "secondHighT": "00:00",
+      "firstLowH": 0,
+      "firstHighH": 0,
+      "secondLowH": 0,
+      "secondHighH": 0
+    }
+  ],
+  "May": [
+    {
+      "firstLowT": "10:58",
+      "firstHighT": "05:04",
+      "secondLowT": "23:11",
+      "secondHighT": "17:33",
+      "firstLowH": 0.35,
+      "firstHighH": 1.62,
+      "secondLowH": 0.27,
+      "secondHighH": 1.52
+    },
+    {
+      "firstLowT": "11:42",
+      "firstHighT": "05:50",
+      "secondLowT": "23:57",
+      "secondHighT": "18:15",
+      "firstLowH": 0.24,
+      "firstHighH": 1.7,
+      "secondLowH": 0.19,
+      "secondHighH": 1.63
+    },
+    {
+      "firstLowT": "12:23",
+      "firstHighT": "06:33",
+      "secondLowT": "-:-",
+      "secondHighT": "18:57",
+      "firstLowH": 0.17,
+      "firstHighH": 1.76,
+      "secondLowH": "-.-",
+      "secondHighH": 1.72
+    },
+    {
+      "firstLowT": "00:40",
+      "firstHighT": "07:14",
+      "secondLowT": "13:02",
+      "secondHighT": "19:36",
+      "firstLowH": 0.15,
+      "firstHighH": 1.8,
+      "secondLowH": 0.13,
+      "secondHighH": 1.78
+    },
+    {
+      "firstLowT": "01:22",
+      "firstHighT": "07:54",
+      "secondLowT": "13:38",
+      "secondHighT": "20:13",
+      "firstLowH": 0.16,
+      "firstHighH": 1.8,
+      "secondLowH": 0.14,
+      "secondHighH": 1.8
+    },
+    {
+      "firstLowT": "02:00",
+      "firstHighT": "08:30",
+      "secondLowT": "14:10",
+      "secondHighT": "20:48",
+      "firstLowH": 0.19,
+      "firstHighH": 1.76,
+      "secondLowH": 0.17,
+      "secondHighH": 1.78
+    },
+    {
+      "firstLowT": "02:34",
+      "firstHighT": "09:04",
+      "secondLowT": "14:38",
+      "secondHighT": "21:18",
+      "firstLowH": 0.25,
+      "firstHighH": 1.69,
+      "secondLowH": 0.23,
+      "secondHighH": 1.74
+    },
+    {
+      "firstLowT": "03:04",
+      "firstHighT": "09:34",
+      "secondLowT": "15:05",
+      "secondHighT": "21:46",
+      "firstLowH": 0.31,
+      "firstHighH": 1.6,
+      "secondLowH": 0.29,
+      "secondHighH": 1.68
+    },
+    {
+      "firstLowT": "03:35",
+      "firstHighT": "10:02",
+      "secondLowT": "15:36",
+      "secondHighT": "22:15",
+      "firstLowH": 0.38,
+      "firstHighH": 1.5,
+      "secondLowH": 0.34,
+      "secondHighH": 1.62
+    },
+    {
+      "firstLowT": "04:12",
+      "firstHighT": "10:33",
+      "secondLowT": "16:14",
+      "secondHighT": "22:53",
+      "firstLowH": 0.43,
+      "firstHighH": 1.41,
+      "secondLowH": 0.39,
+      "secondHighH": 1.55
+    },
+    {
+      "firstLowT": "04:57",
+      "firstHighT": "11:16",
+      "secondLowT": "17:04",
+      "secondHighT": "23:51",
+      "firstLowH": 0.49,
+      "firstHighH": 1.33,
+      "secondLowH": 0.44,
+      "secondHighH": 1.49
+    },
+    {
+      "firstLowT": "05:57",
+      "firstHighT": "12:24",
+      "secondLowT": "18:12",
+      "secondHighT": "-:-",
+      "firstLowH": 0.53,
+      "firstHighH": 1.27,
+      "secondLowH": 0.48,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "07:14",
+      "firstHighT": "01:14",
+      "secondLowT": "19:35",
+      "secondHighT": "13:57",
+      "firstLowH": 0.53,
+      "firstHighH": 1.46,
+      "secondLowH": 0.47,
+      "secondHighH": 1.29
+    },
+    {
+      "firstLowT": "08:36",
+      "firstHighT": "02:47",
+      "secondLowT": "20:58",
+      "secondHighT": "15:28",
+      "firstLowH": 0.46,
+      "firstHighH": 1.5,
+      "secondLowH": 0.38,
+      "secondHighH": 1.39
+    },
+    {
+      "firstLowT": "09:50",
+      "firstHighT": "04:09",
+      "secondLowT": "22:12",
+      "secondHighT": "16:45",
+      "firstLowH": 0.35,
+      "firstHighH": 1.6,
+      "secondLowH": 0.27,
+      "secondHighH": 1.54
+    },
+    {
+      "firstLowT": "10:55",
+      "firstHighT": "05:21",
+      "secondLowT": "23:19",
+      "secondHighT": "17:49",
+      "firstLowH": 0.25,
+      "firstHighH": 1.7,
+      "secondLowH": 0.18,
+      "secondHighH": 1.69
+    },
+    {
+      "firstLowT": "11:54",
+      "firstHighT": "06:22",
+      "secondLowT": "-:-",
+      "secondHighT": "18:46",
+      "firstLowH": 0.18,
+      "firstHighH": 1.79,
+      "secondLowH": "-.-",
+      "secondHighH": 1.82
+    },
+    {
+      "firstLowT": "00:22",
+      "firstHighT": "07:16",
+      "secondLowT": "12:47",
+      "secondHighT": "19:36",
+      "firstLowH": 0.14,
+      "firstHighH": 1.82,
+      "secondLowH": 0.15,
+      "secondHighH": 1.9
+    },
+    {
+      "firstLowT": "01:18",
+      "firstHighT": "08:04",
+      "secondLowT": "13:33",
+      "secondHighT": "20:21",
+      "firstLowH": 0.16,
+      "firstHighH": 1.81,
+      "secondLowH": 0.16,
+      "secondHighH": 1.92
+    },
+    {
+      "firstLowT": "02:06",
+      "firstHighT": "08:45",
+      "secondLowT": "14:10",
+      "secondHighT": "21:00",
+      "firstLowH": 0.21,
+      "firstHighH": 1.75,
+      "secondLowH": 0.21,
+      "secondHighH": 1.89
+    },
+    {
+      "firstLowT": "02:44",
+      "firstHighT": "09:20",
+      "secondLowT": "14:42",
+      "secondHighT": "21:33",
+      "firstLowH": 0.3,
+      "firstHighH": 1.66,
+      "secondLowH": 0.28,
+      "secondHighH": 1.82
+    },
+    {
+      "firstLowT": "03:15",
+      "firstHighT": "09:45",
+      "secondLowT": "15:11",
+      "secondHighT": "21:57",
+      "firstLowH": 0.4,
+      "firstHighH": 1.56,
+      "secondLowH": 0.35,
+      "secondHighH": 1.75
+    },
+    {
+      "firstLowT": "03:45",
+      "firstHighT": "10:03",
+      "secondLowT": "15:40",
+      "secondHighT": "22:18",
+      "firstLowH": 0.5,
+      "firstHighH": 1.48,
+      "secondLowH": 0.42,
+      "secondHighH": 1.68
+    },
+    {
+      "firstLowT": "04:15",
+      "firstHighT": "10:18",
+      "secondLowT": "16:12",
+      "secondHighT": "22:42",
+      "firstLowH": 0.59,
+      "firstHighH": 1.42,
+      "secondLowH": 0.49,
+      "secondHighH": 1.62
+    },
+    {
+      "firstLowT": "04:51",
+      "firstHighT": "10:40",
+      "secondLowT": "16:51",
+      "secondHighT": "23:21",
+      "firstLowH": 0.66,
+      "firstHighH": 1.38,
+      "secondLowH": 0.57,
+      "secondHighH": 1.56
+    },
+    {
+      "firstLowT": "05:40",
+      "firstHighT": "11:23",
+      "secondLowT": "17:45",
+      "secondHighT": "-:-",
+      "firstLowH": 0.73,
+      "firstHighH": 1.33,
+      "secondLowH": 0.64,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "06:47",
+      "firstHighT": "00:23",
+      "secondLowT": "19:02",
+      "secondHighT": "12:40",
+      "firstLowH": 0.76,
+      "firstHighH": 1.5,
+      "secondLowH": 0.68,
+      "secondHighH": 1.29
+    },
+    {
+      "firstLowT": "08:06",
+      "firstHighT": "01:48",
+      "secondLowT": "20:25",
+      "secondHighT": "14:22",
+      "firstLowH": 0.72,
+      "firstHighH": 1.49,
+      "secondLowH": 0.63,
+      "secondHighH": 1.32
+    },
+    {
+      "firstLowT": "09:16",
+      "firstHighT": "03:06",
+      "secondLowT": "21:33",
+      "secondHighT": "15:42",
+      "firstLowH": 0.62,
+      "firstHighH": 1.55,
+      "secondLowH": 0.53,
+      "secondHighH": 1.42
+    },
+    {
+      "firstLowT": "10:12",
+      "firstHighT": "04:09",
+      "secondLowT": "22:30",
+      "secondHighT": "16:42",
+      "firstLowH": 0.48,
+      "firstHighH": 1.63,
+      "secondLowH": 0.42,
+      "secondHighH": 1.54
+    },
+    {
+      "firstLowT": "11:02",
+      "firstHighT": "05:05",
+      "secondLowT": "23:22",
+      "secondHighT": "17:35",
+      "firstLowH": 0.36,
+      "firstHighH": 1.71,
+      "secondLowH": 0.33,
+      "secondHighH": 1.66
+    }
+  ],
+  "June": [
+    {
+      "firstLowT": "11:48",
+      "firstHighT": "05:56",
+      "secondLowT": "-:-",
+      "secondHighT": "18:24",
+      "firstLowH": 0.26,
+      "firstHighH": 1.77,
+      "secondLowH": "-.-",
+      "secondHighH": 1.77
+    },
+    {
+      "firstLowT": "00:12",
+      "firstHighT": "06:45",
+      "secondLowT": "12:33",
+      "secondHighT": "19:12",
+      "firstLowH": 0.28,
+      "firstHighH": 1.81,
+      "secondLowH": 0.21,
+      "secondHighH": 1.84
+    },
+    {
+      "firstLowT": "01:00",
+      "firstHighT": "07:31",
+      "secondLowT": "13:15",
+      "secondHighT": "19:56",
+      "firstLowH": 0.26,
+      "firstHighH": 1.82,
+      "secondLowH": 0.19,
+      "secondHighH": 1.87
+    },
+    {
+      "firstLowT": "01:46",
+      "firstHighT": "08:15",
+      "secondLowT": "13:52",
+      "secondHighT": "20:37",
+      "firstLowH": 0.27,
+      "firstHighH": 1.79,
+      "secondLowH": 0.21,
+      "secondHighH": 1.87
+    },
+    {
+      "firstLowT": "02:26",
+      "firstHighT": "08:55",
+      "secondLowT": "14:26",
+      "secondHighT": "21:15",
+      "firstLowH": 0.3,
+      "firstHighH": 1.74,
+      "secondLowH": 0.25,
+      "secondHighH": 1.84
+    },
+    {
+      "firstLowT": "03:01",
+      "firstHighT": "09:31",
+      "secondLowT": "14:57",
+      "secondHighT": "21:49",
+      "firstLowH": 0.35,
+      "firstHighH": 1.66,
+      "secondLowH": 0.3,
+      "secondHighH": 1.79
+    },
+    {
+      "firstLowT": "03:34",
+      "firstHighT": "10:04",
+      "secondLowT": "15:30",
+      "secondHighT": "22:22",
+      "firstLowH": 0.4,
+      "firstHighH": 1.58,
+      "secondLowH": 0.34,
+      "secondHighH": 1.73
+    },
+    {
+      "firstLowT": "04:09",
+      "firstHighT": "10:36",
+      "secondLowT": "16:08",
+      "secondHighT": "23:00",
+      "firstLowH": 0.45,
+      "firstHighH": 1.51,
+      "secondLowH": 0.38,
+      "secondHighH": 1.68
+    },
+    {
+      "firstLowT": "04:51",
+      "firstHighT": "11:15",
+      "secondLowT": "16:55",
+      "secondHighT": "23:48",
+      "firstLowH": 0.5,
+      "firstHighH": 1.46,
+      "secondLowH": 0.42,
+      "secondHighH": 1.62
+    },
+    {
+      "firstLowT": "05:42",
+      "firstHighT": "12:09",
+      "secondLowT": "17:55",
+      "secondHighT": "-:-",
+      "firstLowH": 0.54,
+      "firstHighH": 1.43,
+      "secondLowH": 0.46,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "06:45",
+      "firstHighT": "00:54",
+      "secondLowT": "19:06",
+      "secondHighT": "13:21",
+      "firstLowH": 0.56,
+      "firstHighH": 1.58,
+      "secondLowH": 0.47,
+      "secondHighH": 1.43
+    },
+    {
+      "firstLowT": "07:57",
+      "firstHighT": "02:12",
+      "secondLowT": "20:24",
+      "secondHighT": "14:44",
+      "firstLowH": 0.54,
+      "firstHighH": 1.58,
+      "secondLowH": 0.45,
+      "secondHighH": 1.49
+    },
+    {
+      "firstLowT": "09:09",
+      "firstHighT": "03:33",
+      "secondLowT": "21:39",
+      "secondHighT": "16:05",
+      "firstLowH": 0.48,
+      "firstHighH": 1.61,
+      "secondLowH": 0.4,
+      "secondHighH": 1.6
+    },
+    {
+      "firstLowT": "10:17",
+      "firstHighT": "04:48",
+      "secondLowT": "22:50",
+      "secondHighT": "17:17",
+      "firstLowH": 0.39,
+      "firstHighH": 1.67,
+      "secondLowH": 0.35,
+      "secondHighH": 1.72
+    },
+    {
+      "firstLowT": "11:19",
+      "firstHighT": "05:54",
+      "secondLowT": "23:57",
+      "secondHighT": "18:20",
+      "firstLowH": 0.32,
+      "firstHighH": 1.72,
+      "secondLowH": 0.32,
+      "secondHighH": 1.82
+    },
+    {
+      "firstLowT": "12:16",
+      "firstHighT": "06:52",
+      "secondLowT": "-:-",
+      "secondHighT": "19:15",
+      "firstLowH": 0.28,
+      "firstHighH": 1.76,
+      "secondLowH": "-.-",
+      "secondHighH": 1.89
+    },
+    {
+      "firstLowT": "00:57",
+      "firstHighT": "07:43",
+      "secondLowT": "13:06",
+      "secondHighT": "20:03",
+      "firstLowH": 0.33,
+      "firstHighH": 1.76,
+      "secondLowH": 0.27,
+      "secondHighH": 1.92
+    },
+    {
+      "firstLowT": "01:48",
+      "firstHighT": "08:27",
+      "secondLowT": "13:48",
+      "secondHighT": "20:45",
+      "firstLowH": 0.36,
+      "firstHighH": 1.67,
+      "secondLowH": 0.34,
+      "secondHighH": 1.84
+    },
+    {
+      "firstLowT": "02:27",
+      "firstHighT": "09:02",
+      "secondLowT": "14:23",
+      "secondHighT": "21:17",
+      "firstLowH": 0.42,
+      "firstHighH": 1.67,
+      "secondLowH": 0.34,
+      "secondHighH": 1.84
+    },
+    {
+      "firstLowT": "02:58",
+      "firstHighT": "09:28",
+      "secondLowT": "14:52",
+      "secondHighT": "21:40",
+      "firstLowH": 0.48,
+      "firstHighH": 1.6,
+      "secondLowH": 0.4,
+      "secondHighH": 1.77
+    },
+    {
+      "firstLowT": "03:24",
+      "firstHighT": "09:44",
+      "secondLowT": "15:19",
+      "secondHighT": "21:57",
+      "firstLowH": 0.55,
+      "firstHighH": 1.55,
+      "secondLowH": 0.45,
+      "secondHighH": 1.73
+    },
+    {
+      "firstLowT": "03:50",
+      "firstHighT": "09:54",
+      "secondLowT": "15:48",
+      "secondHighT": "22:15",
+      "firstLowH": 0.6,
+      "firstHighH": 1.52,
+      "secondLowH": 0.49,
+      "secondHighH": 1.7
+    },
+    {
+      "firstLowT": "04:19",
+      "firstHighT": "10:11",
+      "secondLowT": "16:20",
+      "secondHighT": "22:44",
+      "firstLowH": 0.65,
+      "firstHighH": 1.51,
+      "secondLowH": 0.54,
+      "secondHighH": 1.67
+    },
+    {
+      "firstLowT": "04:56",
+      "firstHighT": "10:42",
+      "secondLowT": "17:01",
+      "secondHighT": "23:29",
+      "firstLowH": 0.7,
+      "firstHighH": 1.49,
+      "secondLowH": 0.6,
+      "secondHighH": 1.62
+    },
+    {
+      "firstLowT": "05:45",
+      "firstHighT": "11:34",
+      "secondLowT": "17:58",
+      "secondHighT": "-:-",
+      "firstLowH": 0.74,
+      "firstHighH": 1.45,
+      "secondLowH": 0.65,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "06:50",
+      "firstHighT": "00:32",
+      "secondLowT": "19:12",
+      "secondHighT": "12:51",
+      "firstLowH": 1.58,
+      "firstHighH": 0.76,
+      "secondLowH": 0.68,
+      "secondHighH": 1.41
+    },
+    {
+      "firstLowT": "08:09",
+      "firstHighT": "01:51",
+      "secondLowT": "20:34",
+      "secondHighT": "14:25",
+      "firstLowH": 0.71,
+      "firstHighH": 1.56,
+      "secondLowH": 0.64,
+      "secondHighH": 1.43
+    },
+    {
+      "firstLowT": "09:21",
+      "firstHighT": "03:12",
+      "secondLowT": "21:47",
+      "secondHighT": "15:49",
+      "firstLowH": 0.61,
+      "firstHighH": 1.59,
+      "secondLowH": 0.55,
+      "secondHighH": 1.52
+    },
+    {
+      "firstLowT": "10:22",
+      "firstHighT": "04:21",
+      "secondLowT": "22:48",
+      "secondHighT": "16:57",
+      "firstLowH": 0.47,
+      "firstHighH": 1.65,
+      "secondLowH": 0.45,
+      "secondHighH": 1.63
+    },
+    {
+      "firstLowT": "11:15",
+      "firstHighT": "05:22",
+      "secondLowT": "23:45",
+      "secondHighT": "17:55",
+      "firstLowH": 0.35,
+      "firstHighH": 1.71,
+      "secondLowH": 0.37,
+      "secondHighH": 1.74
+    }
+  ],
+  "July": [
+    {
+      "firstLowT": "12:06",
+      "firstHighT": "06:18",
+      "secondLowT": "-:-",
+      "secondHighT": "18:50",
+      "firstLowH": 0.26,
+      "firstHighH": 1.76,
+      "secondLowH": "-.-",
+      "secondHighH": 1.83
+    },
+    {
+      "firstLowT": "00:41",
+      "firstHighT": "07:12",
+      "secondLowT": "12:53",
+      "secondHighT": "19:41",
+      "firstLowH": 0.32,
+      "firstHighH": 1.79,
+      "secondLowH": 0.2,
+      "secondHighH": 1.9
+    },
+    {
+      "firstLowT": "01:33",
+      "firstHighT": "08:02",
+      "secondLowT": "13:37",
+      "secondHighT": "20:28",
+      "firstLowH": 0.28,
+      "firstHighH": 1.79,
+      "secondLowH": 0.18,
+      "secondHighH": 1.94
+    },
+    {
+      "firstLowT": "02:20",
+      "firstHighT": "08:47",
+      "secondLowT": "14:17",
+      "secondHighT": "21:11",
+      "firstLowH": 0.28,
+      "firstHighH": 1.78,
+      "secondLowH": 0.19,
+      "secondHighH": 1.94
+    },
+    {
+      "firstLowT": "02:59",
+      "firstHighT": "09:27",
+      "secondLowT": "14:52",
+      "secondHighT": "21:50",
+      "firstLowH": 0.3,
+      "firstHighH": 1.73,
+      "secondLowH": 0.22,
+      "secondHighH": 1.91
+    },
+    {
+      "firstLowT": "03:33",
+      "firstHighT": "10:02",
+      "secondLowT": "15:26",
+      "secondHighT": "22:26",
+      "firstLowH": 0.35,
+      "firstHighH": 1.67,
+      "secondLowH": 0.26,
+      "secondHighH": 1.85
+    },
+    {
+      "firstLowT": "04:05",
+      "firstHighT": "10:34",
+      "secondLowT": "16:03",
+      "secondHighT": "23:01",
+      "firstLowH": 0.41,
+      "firstHighH": 1.62,
+      "secondLowH": 0.3,
+      "secondHighH": 1.78
+    },
+    {
+      "firstLowT": "04:41",
+      "firstHighT": "11:08",
+      "secondLowT": "16:45",
+      "secondHighT": "23:41",
+      "firstLowH": 0.46,
+      "firstHighH": 1.58,
+      "secondLowH": 0.34,
+      "secondHighH": 1.71
+    },
+    {
+      "firstLowT": "05:24",
+      "firstHighT": "11:50",
+      "secondLowT": "17:36",
+      "secondHighT": "-:-",
+      "firstLowH": 0.51,
+      "firstHighH": 1.55,
+      "secondLowH": 0.41,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "06:16",
+      "firstHighT": "00:30",
+      "secondLowT": "18:39",
+      "secondHighT": "12:48",
+      "firstLowH": 0.56,
+      "firstHighH": 1.64,
+      "secondLowH": 0.47,
+      "secondHighH": 1.52
+    },
+    {
+      "firstLowT": "07:20",
+      "firstHighT": "01:36",
+      "secondLowT": "19:51",
+      "secondHighT": "14:03",
+      "firstLowH": 0.58,
+      "firstHighH": 1.58,
+      "secondLowH": 0.52,
+      "secondHighH": 1.53
+    },
+    {
+      "firstLowT": "08:33",
+      "firstHighT": "02:57",
+      "secondLowT": "21:10",
+      "secondHighT": "15:31",
+      "firstLowH": 0.55,
+      "firstHighH": 1.55,
+      "secondLowH": 0.52,
+      "secondHighH": 1.58
+    },
+    {
+      "firstLowT": "09:47",
+      "firstHighT": "04:18",
+      "secondLowT": "22:27",
+      "secondHighT": "16:51",
+      "firstLowH": 0.48,
+      "firstHighH": 1.58,
+      "secondLowH": 0.48,
+      "secondHighH": 1.68
+    },
+    {
+      "firstLowT": "10:54",
+      "firstHighT": "05:30",
+      "secondLowT": "23:37",
+      "secondHighT": "18:00",
+      "firstLowH": 0.4,
+      "firstHighH": 1.62,
+      "secondLowH": 0.44,
+      "secondHighH": 1.78
+    },
+    {
+      "firstLowT": "11:54",
+      "firstHighT": "06:31",
+      "secondLowT": "-:-",
+      "secondHighT": "18:58",
+      "firstLowH": 0.33,
+      "firstHighH": 1.67,
+      "secondLowH": "-.-",
+      "secondHighH": 1.85
+    },
+    {
+      "firstLowT": "00:39",
+      "firstHighT": "07:24",
+      "secondLowT": "12:46",
+      "secondHighT": "19:48",
+      "firstLowH": 0.42,
+      "firstHighH": 1.71,
+      "secondLowH": 0.29,
+      "secondHighH": 1.88
+    },
+    {
+      "firstLowT": "01:30",
+      "firstHighT": "08:07",
+      "secondLowT": "13:30",
+      "secondHighT": "20:28",
+      "firstLowH": 0.41,
+      "firstHighH": 1.71,
+      "secondLowH": 0.29,
+      "secondHighH": 1.87
+    },
+    {
+      "firstLowT": "02:09",
+      "firstHighT": "08:42",
+      "secondLowT": "14:05",
+      "secondHighT": "21:00",
+      "firstLowH": 0.43,
+      "firstHighH": 1.68,
+      "secondLowH": 0.31,
+      "secondHighH": 1.83
+    },
+    {
+      "firstLowT": "02:37",
+      "firstHighT": "09:07",
+      "secondLowT": "14:34",
+      "secondHighT": "21:21",
+      "firstLowH": 0.47,
+      "firstHighH": 1.64,
+      "secondLowH": 0.35,
+      "secondHighH": 1.79
+    },
+    {
+      "firstLowT": "03:01",
+      "firstHighT": "09:22",
+      "secondLowT": "14:59",
+      "secondHighT": "21:36",
+      "firstLowH": 0.51,
+      "firstHighH": 1.61,
+      "secondLowH": 0.39,
+      "secondHighH": 1.76
+    },
+    {
+      "firstLowT": "03:24",
+      "firstHighT": "09:32",
+      "secondLowT": "15:24",
+      "secondHighT": "21:52",
+      "firstLowH": 0.54,
+      "firstHighH": 1.6,
+      "secondLowH": 0.42,
+      "secondHighH": 1.75
+    },
+    {
+      "firstLowT": "03:48",
+      "firstHighT": "09:46",
+      "secondLowT": "15:51",
+      "secondHighT": "22:15",
+      "firstLowH": 0.57,
+      "firstHighH": 1.6,
+      "secondLowH": 0.45,
+      "secondHighH": 1.73
+    },
+    {
+      "firstLowT": "04:18",
+      "firstHighT": "10:12",
+      "secondLowT": "16:24",
+      "secondHighT": "22:51",
+      "firstLowH": 0.61,
+      "firstHighH": 1.59,
+      "secondLowH": 0.5,
+      "secondHighH": 1.69
+    },
+    {
+      "firstLowT": "04:57",
+      "firstHighT": "10:52",
+      "secondLowT": "17:09",
+      "secondHighT": "23:39",
+      "firstLowH": 0.66,
+      "firstHighH": 1.54,
+      "secondLowH": 0.57,
+      "secondHighH": 1.62
+    },
+    {
+      "firstLowT": "05:48",
+      "firstHighT": "11:51",
+      "secondLowT": "18:08",
+      "secondHighT": "-:-",
+      "firstLowH": 0.7,
+      "firstHighH": 1.47,
+      "secondLowH": 0.64,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "06:56",
+      "firstHighT": "00:44",
+      "secondLowT": "19:27",
+      "secondHighT": "13:13",
+      "firstLowH": 0.72,
+      "firstHighH": 1.55,
+      "secondLowH": 0.68,
+      "secondHighH": 1.42
+    },
+    {
+      "firstLowT": "08:21",
+      "firstHighT": "02:09",
+      "secondLowT": "20:59",
+      "secondHighT": "14:57",
+      "firstLowH": 0.67,
+      "firstHighH": 1.51,
+      "secondLowH": 0.64,
+      "secondHighH": 1.44
+    },
+    {
+      "firstLowT": "09:42",
+      "firstHighT": "03:38",
+      "secondLowT": "22:18",
+      "secondHighT": "16:23",
+      "firstLowH": 0.54,
+      "firstHighH": 1.53,
+      "secondLowH": 0.53,
+      "secondHighH": 1.55
+    },
+    {
+      "firstLowT": "10:45",
+      "firstHighT": "04:52",
+      "secondLowT": "23:24",
+      "secondHighT": "17:31",
+      "firstLowH": 0.39,
+      "firstHighH": 1.58,
+      "secondLowH": 0.41,
+      "secondHighH": 1.68
+    },
+    {
+      "firstLowT": "11:40",
+      "firstHighT": "05:56",
+      "secondLowT": "-:-",
+      "secondHighT": "18:31",
+      "firstLowH": 0.26,
+      "firstHighH": 1.65,
+      "secondLowH": "-.-",
+      "secondHighH": 1.8
+    },
+    {
+      "firstLowT": "00:24",
+      "firstHighT": "06:55",
+      "secondLowT": "12:33",
+      "secondHighT": "19:27",
+      "firstLowH": 0.31,
+      "firstHighH": 1.72,
+      "secondLowH": 0.16,
+      "secondHighH": 1.91
+    }
+  ],
+  "August": [
+    {
+      "firstLowT": "01:21",
+      "firstHighT": "07:48",
+      "secondLowT": "13:21",
+      "secondHighT": "20:17",
+      "firstLowH": 0.23,
+      "firstHighH": 1.77,
+      "secondLowH": 0.1,
+      "secondHighH": 1.99
+    },
+    {
+      "firstLowT": "02:11",
+      "firstHighT": "08:35",
+      "secondLowT": "14:06",
+      "secondHighT": "21:02",
+      "firstLowH": 0.19,
+      "firstHighH": 1.8,
+      "secondLowH": 0.08,
+      "secondHighH": 2.02
+    },
+    {
+      "firstLowT": "02:52",
+      "firstHighT": "09:17",
+      "secondLowT": "14:45",
+      "secondHighT": "21:42",
+      "firstLowH": 0.2,
+      "firstHighH": 1.79,
+      "secondLowH": 0.09,
+      "secondHighH": 2
+    },
+    {
+      "firstLowT": "03:25",
+      "firstHighT": "09:53",
+      "secondLowT": "15:19",
+      "secondHighT": "22:18",
+      "firstLowH": 0.25,
+      "firstHighH": 1.76,
+      "secondLowH": 0.13,
+      "secondHighH": 1.94
+    },
+    {
+      "firstLowT": "03:55",
+      "firstHighT": "10:24",
+      "secondLowT": "15:54",
+      "secondHighT": "22:51",
+      "firstLowH": 0.31,
+      "firstHighH": 1.7,
+      "secondLowH": 0.2,
+      "secondHighH": 1.84
+    },
+    {
+      "firstLowT": "04:26",
+      "firstHighT": "10:54",
+      "secondLowT": "16:32",
+      "secondHighT": "23:24",
+      "firstLowH": 0.39,
+      "firstHighH": 1.65,
+      "secondLowH": 0.28,
+      "secondHighH": 1.73
+    },
+    {
+      "firstLowT": "05:03",
+      "firstHighT": "11:30",
+      "secondLowT": "17:17",
+      "secondHighT": "-:-",
+      "firstLowH": 0.46,
+      "firstHighH": 1.6,
+      "secondLowH": 0.38,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "05:48",
+      "firstHighT": "00:03",
+      "secondLowT": "18:12",
+      "secondHighT": "12:18",
+      "firstLowH": 0.52,
+      "firstHighH": 1.62,
+      "secondLowH": 0.5,
+      "secondHighH": 1.55
+    },
+    {
+      "firstLowT": "06:46",
+      "firstHighT": "00:59",
+      "secondLowT": "19:22",
+      "secondHighT": "13:32",
+      "firstLowH": 0.58,
+      "firstHighH": 1.51,
+      "secondLowH": 0.6,
+      "secondHighH": 1.51
+    },
+    {
+      "firstLowT": "08:01",
+      "firstHighT": "02:21",
+      "secondLowT": "20:48",
+      "secondHighT": "15:09",
+      "firstLowH": 0.59,
+      "firstHighH": 1.44,
+      "secondLowH": 0.63,
+      "secondHighH": 1.53
+    },
+    {
+      "firstLowT": "09:24",
+      "firstHighT": "03:54",
+      "secondLowT": "22:13",
+      "secondHighT": "16:36",
+      "firstLowH": 0.52,
+      "firstHighH": 1.45,
+      "secondLowH": 0.58,
+      "secondHighH": 1.63
+    },
+    {
+      "firstLowT": "10:35",
+      "firstHighT": "05:09",
+      "secondLowT": "23:24",
+      "secondHighT": "17:44",
+      "firstLowH": 0.41,
+      "firstHighH": 1.52,
+      "secondLowH": 0.5,
+      "secondHighH": 1.73
+    },
+    {
+      "firstLowT": "11:35",
+      "firstHighT": "06:11",
+      "secondLowT": "-:-",
+      "secondHighT": "18:41",
+      "firstLowH": 0.31,
+      "firstHighH": 1.6,
+      "secondLowH": "-.-",
+      "secondHighH": 1.81
+    },
+    {
+      "firstLowT": "00:22",
+      "firstHighT": "07:01",
+      "secondLowT": "12:26",
+      "secondHighT": "19:27",
+      "firstLowH": 0.43,
+      "firstHighH": 1.66,
+      "secondLowH": 0.25,
+      "secondHighH": 1.86
+    },
+    {
+      "firstLowT": "01:09",
+      "firstHighT": "07:43",
+      "secondLowT": "13:09",
+      "secondHighT": "20:06",
+      "firstLowH": 0.39,
+      "firstHighH": 1.69,
+      "secondLowH": 0.23,
+      "secondHighH": 1.86
+    },
+    {
+      "firstLowT": "01:45",
+      "firstHighT": "08:16",
+      "secondLowT": "13:44",
+      "secondHighT": "20:35",
+      "firstLowH": 0.38,
+      "firstHighH": 1.69,
+      "secondLowH": 0.24,
+      "secondHighH": 1.84
+    },
+    {
+      "firstLowT": "02:13",
+      "firstHighT": "08:41",
+      "secondLowT": "14:12",
+      "secondHighT": "20:57",
+      "firstLowH": 0.39,
+      "firstHighH": 1.68,
+      "secondLowH": 0.26,
+      "secondHighH": 1.81
+    },
+    {
+      "firstLowT": "02:37",
+      "firstHighT": "08:59",
+      "secondLowT": "14:37",
+      "secondHighT": "21:15",
+      "firstLowH": 0.42,
+      "firstHighH": 1.66,
+      "secondLowH": 0.3,
+      "secondHighH": 1.8
+    },
+    {
+      "firstLowT": "02:59",
+      "firstHighT": "09:12",
+      "secondLowT": "15:00",
+      "secondHighT": "21:31",
+      "firstLowH": 0.44,
+      "firstHighH": 1.66,
+      "secondLowH": 0.33,
+      "secondHighH": 1.79
+    },
+    {
+      "firstLowT": "03:21",
+      "firstHighT": "09:27",
+      "secondLowT": "15:25",
+      "secondHighT": "21:52",
+      "firstLowH": 0.47,
+      "firstHighH": 1.65,
+      "secondLowH": 0.38,
+      "secondHighH": 1.76
+    },
+    {
+      "firstLowT": "03:48",
+      "firstHighT": "09:49",
+      "secondLowT": "15:54",
+      "secondHighT": "22:21",
+      "firstLowH": 0.51,
+      "firstHighH": 1.63,
+      "secondLowH": 0.43,
+      "secondHighH": 1.71
+    },
+    {
+      "firstLowT": "04:20",
+      "firstHighT": "10:21",
+      "secondLowT": "16:32",
+      "secondHighT": "22:59",
+      "firstLowH": 0.56,
+      "firstHighH": 1.58,
+      "secondLowH": 0.51,
+      "secondHighH": 1.62
+    },
+    {
+      "firstLowT": "05:02",
+      "firstHighT": "11:09",
+      "secondLowT": "17:22",
+      "secondHighT": "23:52",
+      "firstLowH": 0.62,
+      "firstHighH": 1.5,
+      "secondLowH": 0.61,
+      "secondHighH": 1.51
+    },
+    {
+      "firstLowT": "06:00",
+      "firstHighT": "12:21",
+      "secondLowT": "18:33",
+      "secondHighT": "-:-",
+      "firstLowH": 0.67,
+      "firstHighH": 1.41,
+      "secondLowH": 0.69,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "07:19",
+      "firstHighT": "01:10",
+      "secondLowT": "20:12",
+      "secondHighT": "14:08",
+      "firstLowH": 0.67,
+      "firstHighH": 1.41,
+      "secondLowH": 0.69,
+      "secondHighH": 1.39
+    },
+    {
+      "firstLowT": "08:56",
+      "firstHighT": "02:56",
+      "secondLowT": "21:51",
+      "secondHighT": "15:54",
+      "firstLowH": 0.58,
+      "firstHighH": 1.39,
+      "secondLowH": 0.58,
+      "secondHighH": 1.48
+    },
+    {
+      "firstLowT": "10:13",
+      "firstHighT": "04:26",
+      "secondLowT": "23:03",
+      "secondHighT": "17:09",
+      "firstLowH": 0.41,
+      "firstHighH": 1.46,
+      "secondLowH": 0.42,
+      "secondHighH": 1.64
+    },
+    {
+      "firstLowT": "11:15",
+      "firstHighT": "05:36",
+      "secondLowT": "-:-",
+      "secondHighT": "18:12",
+      "firstLowH": 0.25,
+      "firstHighH": 1.56,
+      "secondLowH": 0.28,
+      "secondHighH": 1.8
+    },
+    {
+      "firstLowT": "00:06",
+      "firstHighT": "06:37",
+      "secondLowT": "12:10",
+      "secondHighT": "19:09",
+      "firstLowH": 0.28,
+      "firstHighH": 1.68,
+      "secondLowH": 0.11,
+      "secondHighH": 1.94
+    },
+    {
+      "firstLowT": "01:04",
+      "firstHighT": "07:31",
+      "secondLowT": "13:03",
+      "secondHighT": "20:00",
+      "firstLowH": 0.16,
+      "firstHighH": 1.78,
+      "secondLowH": 0.02,
+      "secondHighH": 2.05
+    },
+    {
+      "firstLowT": "01:54",
+      "firstHighT": "08:18",
+      "secondLowT": "13:51",
+      "secondHighT": "20:45",
+      "firstLowH": 0.1,
+      "firstHighH": 1.84,
+      "secondLowH": -0.01,
+      "secondHighH": 2.09
+    }
+  ],
+  "September": [
+    {
+      "firstLowT": "02:36",
+      "firstHighT": "09:00",
+      "secondLowT": "14:32",
+      "secondHighT": "21:26",
+      "firstLowH": 0.11,
+      "firstHighH": 1.86,
+      "secondLowH": 0.01,
+      "secondHighH": 2.06
+    },
+    {
+      "firstLowT": "03:09",
+      "firstHighT": "09:37",
+      "secondLowT": "15:08",
+      "secondHighT": "22:02",
+      "firstLowH": 0.16,
+      "firstHighH": 1.84,
+      "secondLowH": 0.08,
+      "secondHighH": 1.97
+    },
+    {
+      "firstLowT": "03:38",
+      "firstHighT": "10:09",
+      "secondLowT": "15:42",
+      "secondHighT": "22:33",
+      "firstLowH": 0.24,
+      "firstHighH": 1.79,
+      "secondLowH": 0.18,
+      "secondHighH": 1.84
+    },
+    {
+      "firstLowT": "04:06",
+      "firstHighT": "10:39",
+      "secondLowT": "16:17",
+      "secondHighT": "23:02",
+      "firstLowH": 0.33,
+      "firstHighH": 1.72,
+      "secondLowH": 0.3,
+      "secondHighH": 1.7
+    },
+    {
+      "firstLowT": "04:39",
+      "firstHighT": "11:11",
+      "secondLowT": "16:57",
+      "secondHighT": "23:34",
+      "firstLowH": 0.42,
+      "firstHighH": 1.65,
+      "secondLowH": 0.44,
+      "secondHighH": 1.56
+    },
+    {
+      "firstLowT": "05:20",
+      "firstHighT": "11:55",
+      "secondLowT": "17:48",
+      "secondHighT": "-:-",
+      "firstLowH": 0.5,
+      "firstHighH": 1.58,
+      "secondLowH": 0.59,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "06:15",
+      "firstHighT": "00:21",
+      "secondLowT": "18:59",
+      "secondHighT": "13:07",
+      "firstLowH": 0.58,
+      "firstHighH": 1.44,
+      "secondLowH": 0.71,
+      "secondHighH": 1.51
+    },
+    {
+      "firstLowT": "07:31",
+      "firstHighT": "01:45",
+      "secondLowT": "20:33",
+      "secondHighT": "14:53",
+      "firstLowH": 0.62,
+      "firstHighH": 1.35,
+      "secondLowH": 0.74,
+      "secondHighH": 1.51
+    },
+    {
+      "firstLowT": "09:01",
+      "firstHighT": "03:32",
+      "secondLowT": "22:02",
+      "secondHighT": "16:19",
+      "firstLowH": 0.57,
+      "firstHighH": 1.36,
+      "secondLowH": 0.65,
+      "secondHighH": 1.61
+    },
+    {
+      "firstLowT": "10:15",
+      "firstHighT": "04:49",
+      "secondLowT": "23:07",
+      "secondHighT": "17:24",
+      "firstLowH": 0.44,
+      "firstHighH": 1.46,
+      "secondLowH": 0.53,
+      "secondHighH": 1.72
+    },
+    {
+      "firstLowT": "11:12",
+      "firstHighT": "05:47",
+      "secondLowT": "23:57",
+      "secondHighT": "18:15",
+      "firstLowH": 0.32,
+      "firstHighH": 1.56,
+      "secondLowH": 0.43,
+      "secondHighH": 1.81
+    },
+    {
+      "firstLowT": "12:00",
+      "firstHighT": "06:34",
+      "secondLowT": "-:-",
+      "secondHighT": "18:57",
+      "firstLowH": 0.24,
+      "firstHighH": 1.65,
+      "secondLowH": "-.-",
+      "secondHighH": 1.86
+    },
+    {
+      "firstLowT": "00:39",
+      "firstHighT": "07:13",
+      "secondLowT": "12:42",
+      "secondHighT": "19:33",
+      "firstLowH": 0.37,
+      "firstHighH": 1.71,
+      "secondLowH": 0.21,
+      "secondHighH": 1.88
+    },
+    {
+      "firstLowT": "01:14",
+      "firstHighT": "07:46",
+      "secondLowT": "13:17",
+      "secondHighT": "20:03",
+      "firstLowH": 0.33,
+      "firstHighH": 1.74,
+      "secondLowH": 0.21,
+      "secondHighH": 1.88
+    },
+    {
+      "firstLowT": "01:45",
+      "firstHighT": "08:13",
+      "secondLowT": "13:48",
+      "secondHighT": "20:28",
+      "firstLowH": 0.32,
+      "firstHighH": 1.75,
+      "secondLowH": 0.23,
+      "secondHighH": 1.87
+    },
+    {
+      "firstLowT": "02:11",
+      "firstHighT": "08:36",
+      "secondLowT": "14:15",
+      "secondHighT": "20:51",
+      "firstLowH": 0.34,
+      "firstHighH": 1.74,
+      "secondLowH": 0.27,
+      "secondHighH": 1.86
+    },
+    {
+      "firstLowT": "02:36",
+      "firstHighT": "08:56",
+      "secondLowT": "14:40",
+      "secondHighT": "21:12",
+      "firstLowH": 0.37,
+      "firstHighH": 1.74,
+      "secondLowH": 0.32,
+      "secondHighH": 1.83
+    },
+    {
+      "firstLowT": "02:58",
+      "firstHighT": "09:15",
+      "secondLowT": "15:05",
+      "secondHighT": "21:33",
+      "firstLowH": 0.41,
+      "firstHighH": 1.72,
+      "secondLowH": 0.38,
+      "secondHighH": 1.78
+    },
+    {
+      "firstLowT": "03:22",
+      "firstHighT": "09:35",
+      "secondLowT": "15:33",
+      "secondHighT": "21:57",
+      "firstLowH": 0.45,
+      "firstHighH": 1.69,
+      "secondLowH": 0.45,
+      "secondHighH": 1.7
+    },
+    {
+      "firstLowT": "03:51",
+      "firstHighT": "10:02",
+      "secondLowT": "16:07",
+      "secondHighT": "22:28",
+      "firstLowH": 0.51,
+      "firstHighH": 1.63,
+      "secondLowH": 0.53,
+      "secondHighH": 1.6
+    },
+    {
+      "firstLowT": "04:27",
+      "firstHighT": "10:42",
+      "secondLowT": "16:53",
+      "secondHighT": "23:13",
+      "firstLowH": 0.57,
+      "firstHighH": 1.55,
+      "secondLowH": 0.63,
+      "secondHighH": 1.48
+    },
+    {
+      "firstLowT": "05:18",
+      "firstHighT": "11:45",
+      "secondLowT": "17:58",
+      "secondHighT": "-:-",
+      "firstLowH": 0.63,
+      "firstHighH": 1.46,
+      "secondLowH": 0.71,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "06:30",
+      "firstHighT": "00:24",
+      "secondLowT": "19:33",
+      "secondHighT": "13:27",
+      "firstLowH": 0.67,
+      "firstHighH": 1.36,
+      "secondLowH": 0.74,
+      "secondHighH": 1.41
+    },
+    {
+      "firstLowT": "08:08",
+      "firstHighT": "02:16",
+      "secondLowT": "21:20",
+      "secondHighT": "15:22",
+      "firstLowH": 0.63,
+      "firstHighH": 1.32,
+      "secondLowH": 0.62,
+      "secondHighH": 1.49
+    },
+    {
+      "firstLowT": "09:37",
+      "firstHighT": "04:00",
+      "secondLowT": "22:38",
+      "secondHighT": "16:42",
+      "firstLowH": 0.47,
+      "firstHighH": 1.4,
+      "secondLowH": 0.45,
+      "secondHighH": 1.66
+    },
+    {
+      "firstLowT": "10:45",
+      "firstHighT": "05:13",
+      "secondLowT": "23:40",
+      "secondHighT": "17:48",
+      "firstLowH": 0.29,
+      "firstHighH": 1.54,
+      "secondLowH": 0.28,
+      "secondHighH": 1.83
+    },
+    {
+      "firstLowT": "11:44",
+      "firstHighT": "06:15",
+      "secondLowT": "-:-",
+      "secondHighT": "18:45",
+      "firstLowH": 0.14,
+      "firstHighH": 1.7,
+      "secondLowH": "-.-",
+      "secondHighH": 1.98
+    },
+    {
+      "firstLowT": "00:37",
+      "firstHighT": "07:09",
+      "secondLowT": "12:39",
+      "secondHighT": "19:37",
+      "firstLowH": 0.16,
+      "firstHighH": 1.83,
+      "secondLowH": 0.05,
+      "secondHighH": 2.08
+    },
+    {
+      "firstLowT": "01:27",
+      "firstHighT": "07:57",
+      "secondLowT": "13:31",
+      "secondHighT": "20:24",
+      "firstLowH": 0.1,
+      "firstHighH": 1.92,
+      "secondLowH": 0.02,
+      "secondHighH": 2.12
+    },
+    {
+      "firstLowT": "02:10",
+      "firstHighT": "08:40",
+      "secondLowT": "14:15",
+      "secondHighT": "21:05",
+      "firstLowH": 0.1,
+      "firstHighH": 1.96,
+      "secondLowH": 0.06,
+      "secondHighH": 2.07
+    }
+  ],
+  "October": [
+    {
+      "firstLowT": "02:45",
+      "firstHighT": "09:18",
+      "secondLowT": "14:54",
+      "secondHighT": "21:42",
+      "firstLowH": 0.16,
+      "firstHighH": 1.95,
+      "secondLowH": 0.14,
+      "secondHighH": 1.97
+    },
+    {
+      "firstLowT": "03:15",
+      "firstHighT": "09:52",
+      "secondLowT": "15:28",
+      "secondHighT": "22:12",
+      "firstLowH": 0.25,
+      "firstHighH": 1.9,
+      "secondLowH": 0.27,
+      "secondHighH": 1.82
+    },
+    {
+      "firstLowT": "03:43",
+      "firstHighT": "10:23",
+      "secondLowT": "16:03",
+      "secondHighT": "22:39",
+      "firstLowH": 0.35,
+      "firstHighH": 1.82,
+      "secondLowH": 0.42,
+      "secondHighH": 1.67
+    },
+    {
+      "firstLowT": "04:14",
+      "firstHighT": "10:54",
+      "secondLowT": "16:41",
+      "secondHighT": "23:06",
+      "firstLowH": 0.44,
+      "firstHighH": 1.74,
+      "secondLowH": 0.56,
+      "secondHighH": 1.53
+    },
+    {
+      "firstLowT": "04:52",
+      "firstHighT": "11:33",
+      "secondLowT": "17:28",
+      "secondHighT": "23:45",
+      "firstLowH": 0.53,
+      "firstHighH": 1.65,
+      "secondLowH": 0.71,
+      "secondHighH": 1.41
+    },
+    {
+      "firstLowT": "05:43",
+      "firstHighT": "12:41",
+      "secondLowT": "18:36",
+      "secondHighT": "-:-",
+      "firstLowH": 0.63,
+      "firstHighH": 1.56,
+      "secondLowH": 0.82,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "06:57",
+      "firstHighT": "01:03",
+      "secondLowT": "20:10",
+      "secondHighT": "14:24",
+      "firstLowH": 0.7,
+      "firstHighH": 1.32,
+      "secondLowH": 0.84,
+      "secondHighH": 1.55
+    },
+    {
+      "firstLowT": "08:30",
+      "firstHighT": "03:01",
+      "secondLowT": "21:37",
+      "secondHighT": "15:49",
+      "firstLowH": 0.67,
+      "firstHighH": 1.34,
+      "secondLowH": 0.74,
+      "secondHighH": 1.63
+    },
+    {
+      "firstLowT": "09:45",
+      "firstHighT": "04:19",
+      "secondLowT": "22:36",
+      "secondHighT": "16:50",
+      "firstLowH": 0.55,
+      "firstHighH": 1.44,
+      "secondLowH": 0.61,
+      "secondHighH": 1.74
+    },
+    {
+      "firstLowT": "10:42",
+      "firstHighT": "05:15",
+      "secondLowT": "23:22",
+      "secondHighT": "17:37",
+      "firstLowH": 0.43,
+      "firstHighH": 1.57,
+      "secondLowH": 0.48,
+      "secondHighH": 1.83
+    },
+    {
+      "firstLowT": "11:28",
+      "firstHighT": "05:59",
+      "secondLowT": "-:-",
+      "secondHighT": "18:18",
+      "firstLowH": 0.33,
+      "firstHighH": 1.68,
+      "secondLowH": "-.-",
+      "secondHighH": 1.89
+    },
+    {
+      "firstLowT": "00:03",
+      "firstHighT": "06:37",
+      "secondLowT": "12:10",
+      "secondHighT": "18:54",
+      "firstLowH": 0.39,
+      "firstHighH": 1.76,
+      "secondLowH": 0.28,
+      "secondHighH": 1.93
+    },
+    {
+      "firstLowT": "00:09",
+      "firstHighT": "07:12",
+      "secondLowT": "12:48",
+      "secondHighT": "19:28",
+      "firstLowH": 0.33,
+      "firstHighH": 1.82,
+      "secondLowH": 0.26,
+      "secondHighH": 1.95
+    },
+    {
+      "firstLowT": "01:13",
+      "firstHighT": "07:44",
+      "secondLowT": "13:24",
+      "secondHighT": "19:59",
+      "firstLowH": 0.31,
+      "firstHighH": 1.85,
+      "secondLowH": 0.28,
+      "secondHighH": 1.95
+    },
+    {
+      "firstLowT": "01:45",
+      "firstHighT": "08:14",
+      "secondLowT": "13:56",
+      "secondHighT": "20:28",
+      "firstLowH": 0.32,
+      "firstHighH": 1.86,
+      "secondLowH": 0.32,
+      "secondHighH": 1.93
+    },
+    {
+      "firstLowT": "02:12",
+      "firstHighT": "08:41",
+      "secondLowT": "14:25",
+      "secondHighT": "20:55",
+      "firstLowH": 0.35,
+      "firstHighH": 1.85,
+      "secondLowH": 0.38,
+      "secondHighH": 1.88
+    },
+    {
+      "firstLowT": "02:38",
+      "firstHighT": "09:05",
+      "secondLowT": "14:52",
+      "secondHighT": "21:20",
+      "firstLowH": 0.4,
+      "firstHighH": 1.82,
+      "secondLowH": 0.45,
+      "secondHighH": 1.8
+    },
+    {
+      "firstLowT": "03:03",
+      "firstHighT": "09:28",
+      "secondLowT": "15:20",
+      "secondHighT": "21:44",
+      "firstLowH": 0.46,
+      "firstHighH": 1.77,
+      "secondLowH": 0.53,
+      "secondHighH": 1.71
+    },
+    {
+      "firstLowT": "03:30",
+      "firstHighT": "09:54",
+      "secondLowT": "15:53",
+      "secondHighT": "22:11",
+      "firstLowH": 0.51,
+      "firstHighH": 1.71,
+      "secondLowH": 0.6,
+      "secondHighH": 1.61
+    },
+    {
+      "firstLowT": "04:04",
+      "firstHighT": "10:28",
+      "secondLowT": "16:37",
+      "secondHighT": "22:51",
+      "firstLowH": 0.57,
+      "firstHighH": 1.64,
+      "secondLowH": 0.68,
+      "secondHighH": 1.5
+    },
+    {
+      "firstLowT": "04:51",
+      "firstHighT": "11:25",
+      "secondLowT": "17:37",
+      "secondHighT": "23:57",
+      "firstLowH": 0.63,
+      "firstHighH": 1.57,
+      "secondLowH": 0.75,
+      "secondHighH": 1.39
+    },
+    {
+      "firstLowT": "05:57",
+      "firstHighT": "12:55",
+      "secondLowT": "19:02",
+      "secondHighT": "-:-",
+      "firstLowH": 0.68,
+      "firstHighH": 1.52,
+      "secondLowH": 0.77,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "07:26",
+      "firstHighT": "01:39",
+      "secondLowT": "20:40",
+      "secondHighT": "14:44",
+      "firstLowH": 0.67,
+      "firstHighH": 1.35,
+      "secondLowH": 0.68,
+      "secondHighH": 14.44
+    },
+    {
+      "firstLowT": "08:57",
+      "firstHighT": "03:24",
+      "secondLowT": "22:00",
+      "secondHighT": "16:09",
+      "firstLowH": 0.44,
+      "firstHighH": 1.44,
+      "secondLowH": 0.52,
+      "secondHighH": 1.72
+    },
+    {
+      "firstLowT": "09:10",
+      "firstHighT": "03:42",
+      "secondLowT": "22:04",
+      "secondHighT": "16:18",
+      "firstLowH": 0.39,
+      "firstHighH": 1.59,
+      "secondLowH": 0.37,
+      "secondHighH": 1.87
+    },
+    {
+      "firstLowT": "10:14",
+      "firstHighT": "04:46",
+      "secondLowT": "23:02",
+      "secondHighT": "17:18",
+      "firstLowH": 0.25,
+      "firstHighH": 1.76,
+      "secondLowH": 0.25,
+      "secondHighH": 2
+    },
+    {
+      "firstLowT": "11:13",
+      "firstHighT": "05:42",
+      "secondLowT": "23:54",
+      "secondHighT": "18:12",
+      "firstLowH": 0.17,
+      "firstHighH": 1.9,
+      "secondLowH": 0.2,
+      "secondHighH": 2.08
+    },
+    {
+      "firstLowT": "12:09",
+      "firstHighT": "06:33",
+      "secondLowT": "-:-",
+      "secondHighT": "19:00",
+      "firstLowH": 0.16,
+      "firstHighH": 2.01,
+      "secondLowH": "-.-",
+      "secondHighH": 2.1
+    },
+    {
+      "firstLowT": "00:39",
+      "firstHighT": "07:19",
+      "secondLowT": "12:58",
+      "secondHighT": "19:44",
+      "firstLowH": 0.2,
+      "firstHighH": 2.06,
+      "secondLowH": 0.2,
+      "secondHighH": 2.04
+    },
+    {
+      "firstLowT": "01:18",
+      "firstHighT": "08:00",
+      "secondLowT": "13:39",
+      "secondHighT": "20:22",
+      "firstLowH": 0.25,
+      "firstHighH": 2.05,
+      "secondLowH": 0.29,
+      "secondHighH": 1.94
+    },
+    {
+      "firstLowT": "01:51",
+      "firstHighT": "08:36",
+      "secondLowT": "14:15",
+      "secondHighT": "20:54",
+      "firstLowH": 0.32,
+      "firstHighH": 2,
+      "secondLowH": 0.42,
+      "secondHighH": 1.8
+    }
+  ],
+  "November": [
+    {
+      "firstLowT": "02:21",
+      "firstHighT": "09:08",
+      "secondLowT": "14:49",
+      "secondHighT": "21:19",
+      "firstLowH": 0.41,
+      "firstHighH": 1.92,
+      "secondLowH": 0.55,
+      "secondHighH": 1.67
+    },
+    {
+      "firstLowT": "02:51",
+      "firstHighT": "09:37",
+      "secondLowT": "15:24",
+      "secondHighT": "21:42",
+      "firstLowH": 0.5,
+      "firstHighH": 1.83,
+      "secondLowH": 0.68,
+      "secondHighH": 1.56
+    },
+    {
+      "firstLowT": "03:2",
+      "firstHighT": "10:12",
+      "secondLowT": "16:07",
+      "secondHighT": "22:10",
+      "firstLowH": 0.59,
+      "firstHighH": 1.74,
+      "secondLowH": 0.81,
+      "secondHighH": 1.47
+    },
+    {
+      "firstLowT": "04:12",
+      "firstHighT": "11:03",
+      "secondLowT": "17:05",
+      "secondHighT": "23:06",
+      "firstLowH": 0.69,
+      "firstHighH": 1.66,
+      "secondLowH": 0.9,
+      "secondHighH": 1.39
+    },
+    {
+      "firstLowT": "05:15",
+      "firstHighT": "12:28",
+      "secondLowT": "18:26",
+      "secondHighT": "-:-",
+      "firstLowH": 0.77,
+      "firstHighH": 1.61,
+      "secondLowH": 0.93,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "06:41",
+      "firstHighT": "00:54",
+      "secondLowT": "19:49",
+      "secondHighT": "13:55",
+      "firstLowH": 0.78,
+      "firstHighH": 1.37,
+      "secondLowH": 0.86,
+      "secondHighH": 1.65
+    },
+    {
+      "firstLowT": "08:00",
+      "firstHighT": "02:27",
+      "secondLowT": "20:52",
+      "secondHighT": "14:59",
+      "firstLowH": 0.7,
+      "firstHighH": 1.45,
+      "secondLowH": 0.73,
+      "secondHighH": 1.73
+    },
+    {
+      "firstLowT": "09:01",
+      "firstHighT": "03:27",
+      "secondLowT": "21:41",
+      "secondHighT": "15:49",
+      "firstLowH": 0.59,
+      "firstHighH": 1.57,
+      "secondLowH": 0.59,
+      "secondHighH": 1.83
+    },
+    {
+      "firstLowT": "09:51",
+      "firstHighT": "04:15",
+      "secondLowT": "22:24",
+      "secondHighT": "16:33",
+      "firstLowH": 0.48,
+      "firstHighH": 1.69,
+      "secondLowH": 1.9,
+      "secondHighH": 0.48
+    },
+    {
+      "firstLowT": "10:36",
+      "firstHighT": "04:57",
+      "secondLowT": "23:05",
+      "secondHighT": "17:15",
+      "firstLowH": 0.41,
+      "firstHighH": 1.8,
+      "secondLowH": 0.39,
+      "secondHighH": 1.96
+    },
+    {
+      "firstLowT": "11:19",
+      "firstHighT": "05:38",
+      "secondLowT": "23:43",
+      "secondHighT": "17:54",
+      "firstLowH": 0.37,
+      "firstHighH": 1.88,
+      "secondLowH": 0.35,
+      "secondHighH": 2
+    },
+    {
+      "firstLowT": "12:00",
+      "firstHighT": "06:16",
+      "secondLowT": "-:-",
+      "secondHighT": "18:32",
+      "firstLowH": 0.37,
+      "firstHighH": 1.94,
+      "secondLowH": "-.-",
+      "secondHighH": 2
+    },
+    {
+      "firstLowT": "00:20",
+      "firstHighT": "06:53",
+      "secondLowT": "12:39",
+      "secondHighT": "19:09",
+      "firstLowH": 0.34,
+      "firstHighH": 1.96,
+      "secondLowH": 0.4,
+      "secondHighH": 1.98
+    },
+    {
+      "firstLowT": "00:53",
+      "firstHighT": "07:27",
+      "secondLowT": "13:13",
+      "secondHighT": "19:42",
+      "firstLowH": 0.36,
+      "firstHighH": 1.95,
+      "secondLowH": 0.45,
+      "secondHighH": 1.92
+    },
+    {
+      "firstLowT": "01:22",
+      "firstHighT": "07:59",
+      "secondLowT": "13:45",
+      "secondHighT": "20:12",
+      "firstLowH": 0.41,
+      "firstHighH": 1.92,
+      "secondLowH": 0.52,
+      "secondHighH": 1.83
+    },
+    {
+      "firstLowT": "01:49",
+      "firstHighT": "08:27",
+      "secondLowT": "14:15",
+      "secondHighT": "20:39",
+      "firstLowH": 0.46,
+      "firstHighH": 1.86,
+      "secondLowH": 0.59,
+      "secondHighH": 1.73
+    },
+    {
+      "firstLowT": "02:18",
+      "firstHighT": "08:55",
+      "secondLowT": "14:48",
+      "secondHighT": "21:08",
+      "firstLowH": 0.51,
+      "firstHighH": 1.8,
+      "secondLowH": 0.64,
+      "secondHighH": 1.64
+    },
+    {
+      "firstLowT": "02:52",
+      "firstHighT": "09:29",
+      "secondLowT": "15:29",
+      "secondHighT": "21:44",
+      "firstLowH": 0.56,
+      "firstHighH": 1.74,
+      "secondLowH": 0.7,
+      "secondHighH": 1.56
+    },
+    {
+      "firstLowT": "03:36",
+      "firstHighT": "10:19",
+      "secondLowT": "16:24",
+      "secondHighT": "22:41",
+      "firstLowH": 0.61,
+      "firstHighH": 1.68,
+      "secondLowH": 0.75,
+      "secondHighH": 1.49
+    },
+    {
+      "firstLowT": "04:36",
+      "firstHighT": "11:33",
+      "secondLowT": "17:34",
+      "secondHighT": "-:-",
+      "firstLowH": 0.65,
+      "firstHighH": 1.64,
+      "secondLowH": 0.77,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "05:53",
+      "firstHighT": "00:04",
+      "secondLowT": "18:57",
+      "secondHighT": "13:04",
+      "firstLowH": 0.65,
+      "firstHighH": 1.46,
+      "secondLowH": 0.72,
+      "secondHighH": 1.66
+    },
+    {
+      "firstLowT": "07:17",
+      "firstHighT": "01:39",
+      "secondLowT": "20:15",
+      "secondHighT": "14:30",
+      "firstLowH": 0.59,
+      "firstHighH": 1.51,
+      "secondLowH": 0.61,
+      "secondHighH": 1.75
+    },
+    {
+      "firstLowT": "08:33",
+      "firstHighT": "03:02",
+      "secondLowT": "21:23",
+      "secondHighT": "15:44",
+      "firstLowH": 0.48,
+      "firstHighH": 1.64,
+      "secondLowH": 0.49,
+      "secondHighH": 1.86
+    },
+    {
+      "firstLowT": "09:42",
+      "firstHighT": "04:13",
+      "secondLowT": "22:24",
+      "secondHighT": "16:49",
+      "firstLowH": 0.38,
+      "firstHighH": 1.79,
+      "secondLowH": 0.39,
+      "secondHighH": 1.95
+    },
+    {
+      "firstLowT": "10:46",
+      "firstHighT": "05:15",
+      "secondLowT": "23:21",
+      "secondHighT": "17:47",
+      "firstLowH": 0.33,
+      "firstHighH": 1.92,
+      "secondLowH": 0.33,
+      "secondHighH": 2.01
+    },
+    {
+      "firstLowT": "11:48",
+      "firstHighT": "06:10",
+      "secondLowT": "-:-",
+      "secondHighT": "18:39",
+      "firstLowH": 0.32,
+      "firstHighH": 2.03,
+      "secondLowH": "-.-",
+      "secondHighH": 2.02
+    },
+    {
+      "firstLowT": "00:11",
+      "firstHighT": "07:00",
+      "secondLowT": "12:42",
+      "secondHighT": "19:25",
+      "firstLowH": 0.31,
+      "firstHighH": 2.08,
+      "secondLowH": 0.35,
+      "secondHighH": 1.98
+    },
+    {
+      "firstLowT": "00:54",
+      "firstHighT": "07:45",
+      "secondLowT": "13:27",
+      "secondHighT": "20:05",
+      "firstLowH": 0.33,
+      "firstHighH": 2.08,
+      "secondLowH": 0.43,
+      "secondHighH": 1.9
+    },
+    {
+      "firstLowT": "01:30",
+      "firstHighT": "08:23",
+      "secondLowT": "14:03",
+      "secondHighT": "20:38",
+      "firstLowH": 0.38,
+      "firstHighH": 2.03,
+      "secondLowH": 0.53,
+      "secondHighH": 1.8
+    },
+    {
+      "firstLowT": "02:02",
+      "firstHighT": "08:55",
+      "secondLowT": "14:35",
+      "secondHighT": "21:02",
+      "firstLowH": 0.45,
+      "firstHighH": 1.96,
+      "secondLowH": 0.64,
+      "secondHighH": 1.69
+    }
+  ],
+  "December": [
+    {
+      "firstLowT": "02:32",
+      "firstHighT": "09:21",
+      "secondLowT": "15:06",
+      "secondHighT": "21:20",
+      "firstLowH": 0.52,
+      "firstHighH": 1.88,
+      "secondLowH": 0.73,
+      "secondHighH": 1.61
+    },
+    {
+      "firstLowT": "03:04",
+      "firstHighT": "09:48",
+      "secondLowT": "15:42",
+      "secondHighT": "21:38",
+      "firstLowH": 0.6,
+      "firstHighH": 1.8,
+      "secondLowH": 0.82,
+      "secondHighH": 1.55
+    },
+    {
+      "firstLowT": "03:42",
+      "firstHighT": "10:22",
+      "secondLowT": "16:26",
+      "secondHighT": "22:10",
+      "firstLowH": 0.67,
+      "firstHighH": 1.73,
+      "secondLowH": 0.89,
+      "secondHighH": 1.5
+    },
+    {
+      "firstLowT": "04:31",
+      "firstHighT": "11:15",
+      "secondLowT": "17:25",
+      "secondHighT": "23:13",
+      "firstLowH": 0.75,
+      "firstHighH": 1.68,
+      "secondLowH": 0.94,
+      "secondHighH": 1.46
+    },
+    {
+      "firstLowT": "05:38",
+      "firstHighT": "12:31",
+      "secondLowT": "18:41",
+      "secondHighT": "-:-",
+      "firstLowH": 0.8,
+      "firstHighH": 1.66,
+      "secondLowH": 0.93,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "06:58",
+      "firstHighT": "00:50",
+      "secondLowT": "19:55",
+      "secondHighT": "13:48",
+      "firstLowH": 0.79,
+      "firstHighH": 1.45,
+      "secondLowH": 0.84,
+      "secondHighH": 1.7
+    },
+    {
+      "firstLowT": "08:09",
+      "firstHighT": "02:18",
+      "secondLowT": "20:55",
+      "secondHighT": "14:52",
+      "firstLowH": 0.71,
+      "firstHighH": 1.53,
+      "secondLowH": 0.7,
+      "secondHighH": 1.77
+    },
+    {
+      "firstLowT": "09:09",
+      "firstHighT": "03:22",
+      "secondLowT": "21:45",
+      "secondHighT": "15:46",
+      "firstLowH": 0.61,
+      "firstHighH": 1.64,
+      "secondLowH": 0.57,
+      "secondHighH": 1.85
+    },
+    {
+      "firstLowT": "10:01",
+      "firstHighT": "04:15",
+      "secondLowT": "22:32",
+      "secondHighT": "16:36",
+      "firstLowH": 0.52,
+      "firstHighH": 1.75,
+      "secondLowH": 0.46,
+      "secondHighH": 1.92
+    },
+    {
+      "firstLowT": "10:50",
+      "firstHighT": "05:05",
+      "secondLowT": "23:16",
+      "secondHighT": "17:23",
+      "firstLowH": 0.47,
+      "firstHighH": 1.85,
+      "secondLowH": 0.38,
+      "secondHighH": 1.96
+    },
+    {
+      "firstLowT": "11:38",
+      "firstHighT": "05:51",
+      "secondLowT": "23:57",
+      "secondHighT": "18:09",
+      "firstLowH": 0.44,
+      "firstHighH": 1.93,
+      "secondLowH": 0.33,
+      "secondHighH": 1.97
+    },
+    {
+      "firstLowT": "12:23",
+      "firstHighT": "06:36",
+      "secondLowT": "-:-",
+      "secondHighT": "18:52",
+      "firstLowH": 0.44,
+      "firstHighH": 1.97,
+      "secondLowH": "-.-",
+      "secondHighH": 1.96
+    },
+    {
+      "firstLowT": "00:36",
+      "firstHighT": "07:18",
+      "secondLowT": "13:05",
+      "secondHighT": "19:33",
+      "firstLowH": 0.33,
+      "firstHighH": 1.99,
+      "secondLowH": 0.46,
+      "secondHighH": 1.91
+    },
+    {
+      "firstLowT": "01:11",
+      "firstHighT": "07:57",
+      "secondLowT": "13:41",
+      "secondHighT": "20:09",
+      "firstLowH": 0.35,
+      "firstHighH": 1.97,
+      "secondLowH": 0.5,
+      "secondHighH": 1.84
+    },
+    {
+      "firstLowT": "01:42",
+      "firstHighT": "08:31",
+      "secondLowT": "14:13",
+      "secondHighT": "20:41",
+      "firstLowH": 0.39,
+      "firstHighH": 1.92,
+      "secondLowH": 0.55,
+      "secondHighH": 1.76
+    },
+    {
+      "firstLowT": "02:12",
+      "firstHighT": "09:04",
+      "secondLowT": "14:46",
+      "secondHighT": "21:11",
+      "firstLowH": 0.43,
+      "firstHighH": 1.87,
+      "secondLowH": 0.6,
+      "secondHighH": 1.68
+    },
+    {
+      "firstLowT": "02:47",
+      "firstHighT": "09:38",
+      "secondLowT": "15:24",
+      "secondHighT": "21:44",
+      "firstLowH": 0.46,
+      "firstHighH": 1.81,
+      "secondLowH": 0.64,
+      "secondHighH": 1.62
+    },
+    {
+      "firstLowT": "03:28",
+      "firstHighT": "10:20",
+      "secondLowT": "16:10",
+      "secondHighT": "22:28",
+      "firstLowH": 0.49,
+      "firstHighH": 1.76,
+      "secondLowH": 0.68,
+      "secondHighH": 1.57
+    },
+    {
+      "firstLowT": "04:20",
+      "firstHighT": "11:16",
+      "secondLowT": "17:07",
+      "secondHighT": "23:30",
+      "firstLowH": 0.53,
+      "firstHighH": 1.72,
+      "secondLowH": 0.71,
+      "secondHighH": 1.54
+    },
+    {
+      "firstLowT": "05:24",
+      "firstHighT": "12:28",
+      "secondLowT": "18:16",
+      "secondHighT": "-:-",
+      "firstLowH": 0.56,
+      "firstHighH": 1.69,
+      "secondLowH": 0.71,
+      "secondHighH": "-.-"
+    },
+    {
+      "firstLowT": "06:39",
+      "firstHighT": "00:50",
+      "secondLowT": "19:31",
+      "secondHighT": "13:50",
+      "firstLowH": 0.56,
+      "firstHighH": 1.55,
+      "secondLowH": 0.66,
+      "secondHighH": 1.71
+    },
+    {
+      "firstLowT": "07:57",
+      "firstHighT": "02:18",
+      "secondLowT": "20:44",
+      "secondHighT": "15:10",
+      "firstLowH": 0.53,
+      "firstHighH": 1.61,
+      "secondLowH": 0.57,
+      "secondHighH": 1.76
+    },
+    {
+      "firstLowT": "09:11",
+      "firstHighT": "03:39",
+      "secondLowT": "21:51",
+      "secondHighT": "16:22",
+      "firstLowH": 0.48,
+      "firstHighH": 1.72,
+      "secondLowH": 0.47,
+      "secondHighH": 1.82
+    },
+    {
+      "firstLowT": "10:22",
+      "firstHighT": "04:50",
+      "secondLowT": "22:54",
+      "secondHighT": "17:25",
+      "firstLowH": 0.44,
+      "firstHighH": 1.84,
+      "secondLowH": 0.39,
+      "secondHighH": 1.87
+    },
+    {
+      "firstLowT": "05:51",
+      "firstHighT": "11:29",
+      "secondLowT": "23:49",
+      "secondHighT": "18:21",
+      "firstLowH": 0.42,
+      "firstHighH": 1.94,
+      "secondLowH": 0.34,
+      "secondHighH": 1.89
+    },
+    {
+      "firstLowT": "12:28",
+      "firstHighT": "06:45",
+      "secondLowT": "-:-",
+      "secondHighT": "19:09",
+      "firstLowH": 0.43,
+      "firstHighH": 2.01,
+      "secondLowH": "-.-",
+      "secondHighH": 19.09
+    },
+    {
+      "firstLowT": "00:36",
+      "firstHighT": "07:33",
+      "secondLowT": "13:15",
+      "secondHighT": "19:50",
+      "firstLowH": 0.33,
+      "firstHighH": 2.02,
+      "secondLowH": 0.47,
+      "secondHighH": 1.84
+    },
+    {
+      "firstLowT": "01:15",
+      "firstHighT": "08:12",
+      "secondLowT": "13:51",
+      "secondHighT": "20:22",
+      "firstLowH": 0.35,
+      "firstHighH": 1.98,
+      "secondLowH": 0.53,
+      "secondHighH": 1.77
+    },
+    {
+      "firstLowT": "01:47",
+      "firstHighT": "08:43",
+      "secondLowT": "14:18",
+      "secondHighT": "20:45",
+      "firstLowH": 0.4,
+      "firstHighH": 1.92,
+      "secondLowH": 0.6,
+      "secondHighH": 1.7
+    },
+    {
+      "firstLowT": "02:15",
+      "firstHighT": "09:05",
+      "secondLowT": "14:44",
+      "secondHighT": "20:57",
+      "firstLowH": 0.45,
+      "firstHighH": 1.85,
+      "secondLowH": 0.67,
+      "secondHighH": 1.64
+    },
+    {
+      "firstLowT": "02:43",
+      "firstHighT": "09:22",
+      "secondLowT": "15:12",
+      "secondHighT": "21:07",
+      "firstLowH": 0.5,
+      "firstHighH": 1.8,
+      "secondLowH": 0.73,
+      "secondHighH": 1.61
+    }
+  ]
+}
