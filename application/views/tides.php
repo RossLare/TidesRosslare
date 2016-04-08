@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tides for Rosslare</title>
+<link href="../../tides2.css" rel="stylesheet" type="text/css">
+<script src="../../tides.js"></script>
+<script src="../../tides2.js"></script>
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+</head>
+<div id="wrapper">
+  <div id="top">
+    <h2>Rosslare Harbour Tidess</h2>
+     <p class="picker" id="picker2">Date Picker:
+      <input type="text" id="datepicker" onChange="reStyle()">
+    </p>
+  </div>
+  <div id="middle">
+    <table id="highTable">
+      <tr>
+        <td  class="first">1<sup>st</sup></td>
+        <td class="level">HIGH</td>
+        <td  class="second">2<sup>nd</sup></td>
+      </tr>
+      <tr>
+        <td id="firstHigh" class="side">11:22</td>
+        <td class="level"></td>
+        <td id="secondHigh" class="side">13:21</td>
+      </tr>
+    </table>
+  </div>
+  <div id="bottom">
+    <table id="lowTable">
+      <tr>
+        <td  class="first">1<sup>st</sup></td>
+        <td class="level">LOW</td>
+        <td  class="second">2<sup>nd</sup></td>
+      </tr>
+      <tr>
+        <td id="firstLow" class="side">11:22</td>
+        <td class="level"></td>
+        <td id="secondLow" class="side">13:21</td>
+      </tr>
+    </table>
+    <button  id="button1" type="button">HEIGHTS</button>
+    <h3 id="date">Mon, Mar 9, 2015</h3>
+  </div>
+</div>
+
+<body>
+</body>
+</html>
+

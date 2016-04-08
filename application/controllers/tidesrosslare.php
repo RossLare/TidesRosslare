@@ -9,7 +9,7 @@ class Tidesrosslare extends CI_Controller {
 	 */
 	public function index() {
 		
-		echo "Tides Rosslare";
+		$this->load->view('tides');
 		
 	}
 	
