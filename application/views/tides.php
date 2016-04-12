@@ -6,14 +6,14 @@
 <title>Tides for Rosslare</title>
 <link href="../../tides2.css" rel="stylesheet" type="text/css">
 <script src="../../tides.js"></script>
-<script src="../../tides2.js"></script>
+<script src="../../tidess2.js"></script>
 <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
 <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 <script src="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
 </head>
 <div id="wrapper">
   <div id="top">
-    <h2>Rosslare Harbour Tidess</h2>
+    <h2>Rosslare Harbour Tides</h2>
      <p class="picker" id="picker2">Date Picker:
       <input type="text" id="datepicker" onChange="reStyle()">
     </p>
@@ -26,9 +26,9 @@
         <td  class="second">2<sup>nd</sup></td>
       </tr>
       <tr>
-        <td id="firstHigh" class="side">11:22</td>
+        <td id="firstHigh" class="side"><?php echo $firstHigh;?></td>
         <td class="level"></td>
-        <td id="secondHigh" class="side">13:21</td>
+        <td id="secondHigh" class="side"><?php echo $secondHigh;?></td>
       </tr>
     </table>
   </div>
@@ -40,13 +40,15 @@
         <td  class="second">2<sup>nd</sup></td>
       </tr>
       <tr>
-        <td id="firstLow" class="side">11:22</td>
+        <td id="firstLow" class="side"><?php echo $firstLow; ?></td>
         <td class="level"></td>
-        <td id="secondLow" class="side">13:21</td>
+        <td id="secondLow" class="side"><?php echo $secondLow; ?></td>
       </tr>
     </table>
-    <button  id="button1" type="button">HEIGHTS</button>
-    <h3 id="date">Mon, Mar 9, 2015</h3>
+    
+    <a href="swap/pig/swan"><button  id="button1" type="button"><?php echo $button; ?></button></a>
+    <h3 id="date"><?php echo ""; ?></h3>
+    
   </div>
 </div>
 

@@ -180,7 +180,7 @@ function reStyle() {
 	
 	//document.getElementById("date").innerHTML=newMonth +" "+newDay+", "+newDate.getFullYear();
 	
-	document.getElementById("date").innerHTML=newMonth+" "+newDay+", "+newDate.getFullYear();
+	document.getElementById("date").innerHTML=newMonth+" "+newDay+", "+newDate.getFullYear() + " <br />All times in GMT (add 1hr for BST)";
 	document.getElementById("firstLow").innerHTML=JSONObject[newMonth][newDay-1]["firstLowT"];
 	document.getElementById("firstHigh").innerHTML=JSONObject[newMonth][newDay-1]["firstHighT"];
 	document.getElementById("secondLow").innerHTML=JSONObject[newMonth][newDay-1]["secondLowT"];
